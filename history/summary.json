@@ -4,19 +4,19 @@
     "url": "https://fragile.ventures",
     "icon": "https://favicons.githubusercontent.com/fragile.ventures",
     "slug": "fragile-ventures-web",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 306,
-    "timeDay": 419,
-    "timeWeek": 306,
-    "timeMonth": 306,
-    "timeYear": 306,
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
+    "time": 288,
+    "timeDay": 333,
+    "timeWeek": 288,
+    "timeMonth": 288,
+    "timeYear": 288,
     "dailyMinutesDown": {
-      "2021-07-26": 2
+      "2021-07-26": 18
     }
   },
   {
@@ -90,7 +90,7 @@
     "timeMonth": 110,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2021-07-26": 775,
+      "2021-07-26": 791,
       "2021-07-25": 1440,
       "2021-07-24": 1440,
       "2021-07-23": 535
@@ -113,7 +113,7 @@
     "timeMonth": 65,
     "timeYear": 65,
     "dailyMinutesDown": {
-      "2021-07-26": 775,
+      "2021-07-26": 791,
       "2021-07-25": 1440,
       "2021-07-24": 1440,
       "2021-07-23": 374
@@ -160,19 +160,19 @@
     "url": "https://recu.kickinglotus.com/",
     "icon": "https://favicons.githubusercontent.com/recu.kickinglotus.com",
     "slug": "kicking-recu",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 271,
-    "timeDay": 312,
-    "timeWeek": 271,
-    "timeMonth": 271,
-    "timeYear": 271,
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
+    "time": 257,
+    "timeDay": 241,
+    "timeWeek": 257,
+    "timeMonth": 257,
+    "timeYear": 257,
     "dailyMinutesDown": {
-      "2021-07-26": 0
+      "2021-07-26": 16
     }
   },
   {
