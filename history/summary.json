@@ -92,7 +92,7 @@
     "timeMonth": 112,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2021-08-01": 180,
+      "2021-08-01": 203,
       "2021-07-31": 1440,
       "2021-07-30": 1440,
       "2021-07-29": 1440,
@@ -121,7 +121,7 @@
     "timeMonth": 79,
     "timeYear": 79,
     "dailyMinutesDown": {
-      "2021-08-01": 180,
+      "2021-08-01": 203,
       "2021-07-31": 1440,
       "2021-07-30": 1440,
       "2021-07-29": 1440,
@@ -156,19 +156,19 @@
     "url": "https://kickinglotus.com/en",
     "icon": "https://favicons.githubusercontent.com/kickinglotus.com",
     "slug": "kicking-web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 397,
-    "timeDay": 224,
-    "timeWeek": 333,
-    "timeMonth": 397,
-    "timeYear": 397,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 385,
+    "timeDay": 229,
+    "timeWeek": 322,
+    "timeMonth": 385,
+    "timeYear": 385,
     "dailyMinutesDown": {
-      "2021-08-01": 0
+      "2021-08-01": 23
     }
   },
   {
