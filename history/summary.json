@@ -92,7 +92,7 @@
     "timeMonth": 107,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2021-08-04": 1234,
+      "2021-08-04": 1241,
       "2021-08-03": 1440,
       "2021-08-02": 1440,
       "2021-08-01": 1440,
@@ -124,7 +124,7 @@
     "timeMonth": 82,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2021-08-04": 1234,
+      "2021-08-04": 1241,
       "2021-08-03": 1440,
       "2021-08-02": 1440,
       "2021-08-01": 1440,
@@ -221,19 +221,19 @@
     "url": "https://tokyo.nowboarding.club/",
     "icon": "https://favicons.githubusercontent.com/tokyo.nowboarding.club",
     "slug": "now-boarding-tokyo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 109,
-    "timeWeek": 101,
-    "timeMonth": 107,
-    "timeYear": 107,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 105,
+    "timeDay": 94,
+    "timeWeek": 98,
+    "timeMonth": 105,
+    "timeYear": 105,
     "dailyMinutesDown": {
-      "2021-08-04": 0
+      "2021-08-04": 7
     }
   }
 ]
