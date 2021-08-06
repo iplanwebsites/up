@@ -5,18 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/fragile.ventures",
     "slug": "fragile-ventures-web",
     "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.63%",
+    "uptime": "99.70%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
     "time": 454,
     "timeDay": 1426,
     "timeWeek": 629,
     "timeMonth": 454,
     "timeYear": 454,
     "dailyMinutesDown": {
-      "2021-08-06": 13,
       "2021-07-28": 23,
       "2021-07-27": 20,
       "2021-07-26": 18
@@ -93,7 +92,7 @@
     "timeMonth": 106,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2021-08-06": 417,
+      "2021-08-06": 437,
       "2021-08-05": 1440,
       "2021-08-04": 1440,
       "2021-08-03": 1440,
@@ -127,7 +126,7 @@
     "timeMonth": 87,
     "timeYear": 87,
     "dailyMinutesDown": {
-      "2021-08-06": 417,
+      "2021-08-06": 437,
       "2021-08-05": 1440,
       "2021-08-04": 1440,
       "2021-08-03": 1440,
@@ -187,18 +186,19 @@
     "url": "https://recu.kickinglotus.com/",
     "icon": "https://favicons.githubusercontent.com/recu.kickinglotus.com",
     "slug": "kicking-recu",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 279,
     "timeDay": 443,
     "timeWeek": 258,
     "timeMonth": 279,
     "timeYear": 279,
     "dailyMinutesDown": {
+      "2021-08-06": 3,
       "2021-07-27": 18,
       "2021-07-26": 16
     }
@@ -226,9 +226,9 @@
     "url": "https://tokyo.nowboarding.club/",
     "icon": "https://favicons.githubusercontent.com/tokyo.nowboarding.club",
     "slug": "now-boarding-tokyo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -237,6 +237,8 @@
     "timeWeek": 98,
     "timeMonth": 105,
     "timeYear": 105,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-06": 0
+    }
   }
 ]
