@@ -116,7 +116,7 @@
     "timeMonth": 221,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2021-12-15": 57,
+      "2021-12-15": 63,
       "2021-12-14": 1440,
       "2021-12-13": 1440,
       "2021-12-12": 1440,
@@ -281,7 +281,7 @@
     "timeMonth": 132,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2021-12-15": 57,
+      "2021-12-15": 63,
       "2021-12-14": 1440,
       "2021-12-13": 1440,
       "2021-12-12": 1440,
@@ -436,9 +436,9 @@
     "slug": "invitation-og-invt-co-v1",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 217,
     "timeDay": 112,
@@ -446,7 +446,7 @@
     "timeMonth": 292,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2021-12-15": 0
+      "2021-12-15": 6
     }
   },
   {
@@ -548,7 +548,7 @@
     "timeMonth": 98,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2021-12-15": 57,
+      "2021-12-15": 63,
       "2021-12-14": 1440,
       "2021-12-13": 1440,
       "2021-12-12": 1440,
