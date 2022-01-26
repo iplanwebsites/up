@@ -91,9 +91,9 @@
     "url": "https://demo.lovely.link/",
     "icon": "https://favicons.githubusercontent.com/demo.lovely.link",
     "slug": "lovely-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -102,7 +102,9 @@
     "timeWeek": 61,
     "timeMonth": 93,
     "timeYear": 153,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-26": 0
+    }
   },
   {
     "name": "Invitation (web)",
@@ -121,7 +123,7 @@
     "timeMonth": 190,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2022-01-26": 1287,
+      "2022-01-26": 1313,
       "2022-01-25": 1440,
       "2022-01-24": 1440,
       "2022-01-23": 1440,
@@ -328,7 +330,7 @@
     "timeMonth": 131,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2022-01-26": 1287,
+      "2022-01-26": 1313,
       "2022-01-25": 1440,
       "2022-01-24": 1440,
       "2022-01-23": 1440,
@@ -525,9 +527,9 @@
     "slug": "invitation-og-invt-co-v1",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "97.71%",
-    "uptimeMonth": "99.10%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.84%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "99.83%",
     "time": 263,
     "timeDay": 128,
@@ -535,7 +537,6 @@
     "timeMonth": 389,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2022-01-26": 14,
       "2022-01-25": 47,
       "2022-01-24": 37,
       "2022-01-23": 19,
