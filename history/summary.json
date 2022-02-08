@@ -92,19 +92,19 @@
     "url": "https://demo.lovely.link/",
     "icon": "https://favicons.githubusercontent.com/demo.lovely.link",
     "slug": "lovely-demo",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 79,
-    "timeWeek": 77,
-    "timeMonth": 80,
+    "timeDay": 84,
+    "timeWeek": 80,
+    "timeMonth": 81,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2022-02-08": 0
+      "2022-02-08": 11
     }
   },
   {
@@ -124,7 +124,7 @@
     "timeMonth": 199,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2022-02-08": 166,
+      "2022-02-08": 177,
       "2022-02-07": 1440,
       "2022-02-06": 1440,
       "2022-02-05": 1440,
@@ -344,7 +344,7 @@
     "timeMonth": 159,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2022-02-08": 166,
+      "2022-02-08": 177,
       "2022-02-07": 1440,
       "2022-02-06": 1440,
       "2022-02-05": 1440,
