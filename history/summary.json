@@ -92,9 +92,9 @@
     "url": "https://demo.lovely.link/",
     "icon": "https://favicons.githubusercontent.com/demo.lovely.link",
     "slug": "lovely-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -103,7 +103,9 @@
     "timeWeek": 77,
     "timeMonth": 80,
     "timeYear": 146,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-08": 0
+    }
   },
   {
     "name": "Invitation (web)",
@@ -122,7 +124,7 @@
     "timeMonth": 199,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2022-02-08": 66,
+      "2022-02-08": 166,
       "2022-02-07": 1440,
       "2022-02-06": 1440,
       "2022-02-05": 1440,
@@ -342,7 +344,7 @@
     "timeMonth": 159,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2022-02-08": 66,
+      "2022-02-08": 166,
       "2022-02-07": 1440,
       "2022-02-06": 1440,
       "2022-02-05": 1440,
@@ -674,11 +676,11 @@
     "icon": "https://favicons.githubusercontent.com/tokyo.nowboarding.club",
     "slug": "now-boarding-tokyo",
     "status": "up",
-    "uptime": "51.12%",
+    "uptime": "51.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "51.12%",
+    "uptimeYear": "51.14%",
     "time": 328,
     "timeDay": 237,
     "timeWeek": 151,
