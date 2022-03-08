@@ -13,7 +13,7 @@
     "time": 1280,
     "timeDay": 462,
     "timeWeek": 510,
-    "timeMonth": 554,
+    "timeMonth": 539,
     "timeYear": 1280,
     "dailyMinutesDown": {
       "2022-02-15": 39,
@@ -105,7 +105,7 @@
     "time": 177,
     "timeDay": 75,
     "timeWeek": 64,
-    "timeMonth": 382,
+    "timeMonth": 391,
     "timeYear": 177,
     "dailyMinutesDown": {
       "2022-02-08": 16
@@ -128,7 +128,7 @@
     "timeMonth": 210,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2022-03-08": 76,
+      "2022-03-08": 838,
       "2022-03-07": 1440,
       "2022-03-06": 1440,
       "2022-03-05": 1440,
@@ -376,7 +376,7 @@
     "timeMonth": 173,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2022-03-08": 76,
+      "2022-03-08": 838,
       "2022-03-07": 1440,
       "2022-03-06": 1440,
       "2022-03-05": 1440,
@@ -612,9 +612,9 @@
     "url": "https://og.invt.co/felix.png?fontSize=%40felix&theme=light&md=1&images=https%3A%2F%2Flh3.googleusercontent.com%2Fa-%2FAOh14GjUk2VKmkWxpgWZgY0CXWRFi_k6t7f2MBSsfSxR%3Ds96-c",
     "icon": "https://favicons.githubusercontent.com/og.invt.co",
     "slug": "invitation-og-invt-co-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.14%",
     "uptimeMonth": "99.30%",
     "uptimeYear": "99.72%",
@@ -624,6 +624,7 @@
     "timeMonth": 361,
     "timeYear": 295,
     "dailyMinutesDown": {
+      "2022-03-08": 0,
       "2022-03-03": 53,
       "2022-03-01": 33,
       "2022-02-28": 32,
@@ -686,7 +687,7 @@
     "time": 803,
     "timeDay": 197,
     "timeWeek": 183,
-    "timeMonth": 420,
+    "timeMonth": 419,
     "timeYear": 803,
     "dailyMinutesDown": {
       "2022-02-15": 21,
@@ -725,7 +726,7 @@
     "time": 695,
     "timeDay": 178,
     "timeWeek": 183,
-    "timeMonth": 866,
+    "timeMonth": 881,
     "timeYear": 695,
     "dailyMinutesDown": {
       "2022-02-15": 17,
@@ -750,11 +751,11 @@
     "icon": "https://favicons.githubusercontent.com/tokyo.nowboarding.club",
     "slug": "now-boarding-tokyo",
     "status": "up",
-    "uptime": "57.14%",
+    "uptime": "57.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "57.14%",
+    "uptimeYear": "57.24%",
     "time": 320,
     "timeDay": 175,
     "timeWeek": 819,
