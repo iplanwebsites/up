@@ -129,7 +129,7 @@
     "timeMonth": 240,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2022-04-06": 0,
+      "2022-04-06": 96,
       "2022-04-05": 1440,
       "2022-04-04": 1440,
       "2022-04-03": 1440,
@@ -406,7 +406,7 @@
     "timeMonth": 115,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2022-04-06": 0,
+      "2022-04-06": 96,
       "2022-04-05": 1440,
       "2022-04-04": 1440,
       "2022-04-03": 1440,
@@ -673,9 +673,9 @@
     "slug": "invitation-og-invt-co-v1",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "98.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "98.70%",
     "uptimeYear": "99.59%",
     "time": 284,
     "timeDay": 68,
@@ -683,7 +683,6 @@
     "timeMonth": 270,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2022-04-05": 8,
       "2022-04-04": 18,
       "2022-04-02": 20,
       "2022-03-31": 74,
