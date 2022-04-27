@@ -130,7 +130,7 @@
     "timeMonth": 219,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2022-04-27": 1182,
+      "2022-04-27": 1198,
       "2022-04-26": 1440,
       "2022-04-25": 1440,
       "2022-04-24": 1440,
@@ -428,7 +428,7 @@
     "timeMonth": 169,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2022-04-27": 1182,
+      "2022-04-27": 1198,
       "2022-04-26": 1440,
       "2022-04-25": 1440,
       "2022-04-24": 1440,
@@ -714,15 +714,15 @@
     "url": "https://og.invt.co/felix.png?fontSize=%40felix&theme=light&md=1&images=https%3A%2F%2Flh3.googleusercontent.com%2Fa-%2FAOh14GjUk2VKmkWxpgWZgY0CXWRFi_k6t7f2MBSsfSxR%3Ds96-c",
     "icon": "https://favicons.githubusercontent.com/og.invt.co",
     "slug": "invitation-og-invt-co-v1",
-    "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "77.31%",
+    "status": "down",
+    "uptime": "99.24%",
+    "uptimeDay": "77.30%",
     "uptimeWeek": "88.02%",
     "uptimeMonth": "95.60%",
-    "uptimeYear": "99.23%",
+    "uptimeYear": "99.24%",
     "time": 349,
     "timeDay": 202,
-    "timeWeek": 843,
+    "timeWeek": 856,
     "timeMonth": 556,
     "timeYear": 349,
     "dailyMinutesDown": {
@@ -779,8 +779,7 @@
       "2022-01-24": 37,
       "2022-01-23": 19,
       "2022-01-21": 37,
-      "2022-01-20": 77,
-      "2022-01-19": 15
+      "2022-01-20": 77
     }
   },
   {
