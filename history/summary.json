@@ -130,7 +130,7 @@
     "timeMonth": 222,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2022-04-29": 1353,
+      "2022-04-29": 1374,
       "2022-04-28": 1440,
       "2022-04-27": 1440,
       "2022-04-26": 1440,
@@ -430,7 +430,7 @@
     "timeMonth": 176,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2022-04-29": 1353,
+      "2022-04-29": 1374,
       "2022-04-28": 1440,
       "2022-04-27": 1440,
       "2022-04-26": 1440,
@@ -718,9 +718,9 @@
     "url": "https://og.invt.co/felix.png?fontSize=%40felix&theme=light&md=1&images=https%3A%2F%2Flh3.googleusercontent.com%2Fa-%2FAOh14GjUk2VKmkWxpgWZgY0CXWRFi_k6t7f2MBSsfSxR%3Ds96-c",
     "icon": "https://favicons.githubusercontent.com/og.invt.co",
     "slug": "invitation-og-invt-co-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "91.27%",
+    "uptimeDay": "91.25%",
     "uptimeWeek": "87.80%",
     "uptimeMonth": "94.95%",
     "uptimeYear": "99.25%",
@@ -777,8 +777,7 @@
       "2022-02-16": 16,
       "2022-02-12": 35,
       "2022-02-06": 17,
-      "2022-02-02": 17,
-      "2022-01-30": 17
+      "2022-02-02": 17
     }
   },
   {
