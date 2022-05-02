@@ -130,7 +130,7 @@
     "timeMonth": 221,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2022-05-02": 1115,
+      "2022-05-02": 1141,
       "2022-05-01": 1440,
       "2022-04-30": 1440,
       "2022-04-29": 1440,
@@ -433,7 +433,7 @@
     "timeMonth": 177,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2022-05-02": 1115,
+      "2022-05-02": 1141,
       "2022-05-01": 1440,
       "2022-04-30": 1440,
       "2022-04-29": 1440,
@@ -724,15 +724,15 @@
     "url": "https://og.invt.co/felix.png?fontSize=%40felix&theme=light&md=1&images=https%3A%2F%2Flh3.googleusercontent.com%2Fa-%2FAOh14GjUk2VKmkWxpgWZgY0CXWRFi_k6t7f2MBSsfSxR%3Ds96-c",
     "icon": "https://favicons.githubusercontent.com/og.invt.co",
     "slug": "invitation-og-invt-co-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "94.25%",
-    "uptimeWeek": "86.80%",
+    "uptimeDay": "94.23%",
+    "uptimeWeek": "86.98%",
     "uptimeMonth": "94.62%",
     "uptimeYear": "99.24%",
     "time": 348,
     "timeDay": 158,
-    "timeWeek": 374,
+    "timeWeek": 370,
     "timeMonth": 504,
     "timeYear": 348,
     "dailyMinutesDown": {
@@ -780,8 +780,7 @@
       "2022-03-01": 33,
       "2022-02-28": 32,
       "2022-02-26": 44,
-      "2022-02-25": 29,
-      "2022-02-24": 19
+      "2022-02-25": 29
     }
   },
   {
@@ -886,11 +885,11 @@
     "icon": "https://favicons.githubusercontent.com/tokyo.nowboarding.club",
     "slug": "now-boarding-tokyo",
     "status": "up",
-    "uptime": "65.43%",
+    "uptime": "65.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "65.43%",
+    "uptimeYear": "65.44%",
     "time": 272,
     "timeDay": 150,
     "timeWeek": 115,
