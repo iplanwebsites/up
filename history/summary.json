@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 899,
-    "timeDay": 172,
-    "timeWeek": 220,
+    "timeDay": 164,
+    "timeWeek": 206,
     "timeMonth": 280,
-    "timeYear": 529,
+    "timeYear": 516,
     "dailyMinutesDown": {
       "2022-06-30": 322,
       "2022-06-21": 27,
@@ -41,9 +41,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 181,
-    "timeDay": 231,
-    "timeWeek": 165,
-    "timeMonth": 420,
+    "timeDay": 264,
+    "timeWeek": 160,
+    "timeMonth": 422,
     "timeYear": 181,
     "dailyMinutesDown": {
       "2022-07-28": 31,
@@ -62,10 +62,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 6060,
-    "timeDay": 2710,
-    "timeWeek": 5210,
-    "timeMonth": 5459,
+    "time": 6061,
+    "timeDay": 6713,
+    "timeWeek": 5292,
+    "timeMonth": 5469,
     "timeYear": 6153,
     "dailyMinutesDown": {
       "2022-01-10": 35,
@@ -87,10 +87,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 153,
-    "timeDay": 177,
-    "timeWeek": 177,
+    "timeDay": 286,
+    "timeWeek": 189,
     "timeMonth": 174,
-    "timeYear": 159,
+    "timeYear": 160,
     "dailyMinutesDown": {
       "2022-07-28": 31,
       "2022-04-15": 50,
@@ -110,12 +110,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 197,
-    "timeDay": 113,
-    "timeWeek": 245,
-    "timeMonth": 256,
-    "timeYear": 218,
+    "timeDay": 86,
+    "timeWeek": 193,
+    "timeMonth": 248,
+    "timeYear": 217,
     "dailyMinutesDown": {
-      "2022-09-27": 140,
+      "2022-09-28": 143,
+      "2022-09-27": 1440,
       "2022-09-26": 1440,
       "2022-09-25": 1440,
       "2022-09-24": 1440,
@@ -478,8 +479,7 @@
       "2021-10-02": 1440,
       "2021-10-01": 1440,
       "2021-09-30": 1440,
-      "2021-09-29": 1440,
-      "2021-09-28": 1440
+      "2021-09-29": 1440
     }
   },
   {
@@ -495,11 +495,12 @@
     "uptimeYear": "0.00%",
     "time": 165,
     "timeDay": 109,
-    "timeWeek": 210,
-    "timeMonth": 244,
+    "timeWeek": 185,
+    "timeMonth": 237,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2022-09-27": 140,
+      "2022-09-28": 143,
+      "2022-09-27": 1440,
       "2022-09-26": 1440,
       "2022-09-25": 1440,
       "2022-09-24": 1440,
@@ -862,8 +863,7 @@
       "2021-10-02": 1440,
       "2021-10-01": 1440,
       "2021-09-30": 1440,
-      "2021-09-29": 1440,
-      "2021-09-28": 1440
+      "2021-09-29": 1440
     }
   },
   {
@@ -878,9 +878,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
     "time": 336,
-    "timeDay": 272,
-    "timeWeek": 518,
-    "timeMonth": 393,
+    "timeDay": 342,
+    "timeWeek": 482,
+    "timeMonth": 392,
     "timeYear": 346,
     "dailyMinutesDown": {
       "2022-07-28": 30,
@@ -940,9 +940,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 300,
-    "timeDay": 301,
-    "timeWeek": 299,
-    "timeMonth": 275,
+    "timeDay": 339,
+    "timeWeek": 323,
+    "timeMonth": 277,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2022-05-02": 27,
@@ -963,9 +963,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 530,
-    "timeDay": 158,
-    "timeWeek": 150,
-    "timeMonth": 164,
+    "timeDay": 300,
+    "timeWeek": 175,
+    "timeMonth": 168,
     "timeYear": 334,
     "dailyMinutesDown": {
       "2022-06-30": 322,
@@ -992,8 +992,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 480,
-    "timeDay": 181,
-    "timeWeek": 165,
+    "timeDay": 191,
+    "timeWeek": 170,
     "timeMonth": 173,
     "timeYear": 350,
     "dailyMinutesDown": {
@@ -1014,15 +1014,15 @@
     "icon": "https://favicons.githubusercontent.com/tokyo.nowboarding.club",
     "slug": "now-boarding-tokyo",
     "status": "up",
-    "uptime": "77.19%",
+    "uptime": "77.24%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.50%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "76.26%",
+    "uptimeYear": "76.53%",
     "time": 291,
-    "timeDay": 202,
-    "timeWeek": 125,
-    "timeMonth": 197,
+    "timeDay": 300,
+    "timeWeek": 134,
+    "timeMonth": 194,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2022-09-20": 51,
@@ -1115,8 +1115,7 @@
       "2021-10-02": 1440,
       "2021-10-01": 1440,
       "2021-09-30": 1440,
-      "2021-09-29": 1440,
-      "2021-09-28": 1440
+      "2021-09-29": 1440
     }
   }
 ]
