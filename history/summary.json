@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.35%",
     "uptimeYear": "99.43%",
-    "time": 714,
-    "timeDay": 418,
+    "time": 691,
+    "timeDay": 445,
     "timeWeek": 359,
-    "timeMonth": 350,
+    "timeMonth": 357,
     "timeYear": 503,
     "dailyMinutesDown": {
       "2022-11-15": 1228,
@@ -42,10 +42,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 179,
-    "timeDay": 94,
-    "timeWeek": 152,
-    "timeMonth": 165,
-    "timeYear": 171,
+    "timeDay": 58,
+    "timeWeek": 115,
+    "timeMonth": 158,
+    "timeYear": 170,
     "dailyMinutesDown": {
       "2022-07-28": 31,
       "2022-03-02": 16
@@ -62,11 +62,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 6047,
-    "timeDay": 5953,
-    "timeWeek": 5304,
-    "timeMonth": 5660,
-    "timeYear": 6133,
+    "time": 6045,
+    "timeDay": 6170,
+    "timeWeek": 5833,
+    "timeMonth": 5627,
+    "timeYear": 6132,
     "dailyMinutesDown": {
       "2022-01-10": 35
     }
@@ -83,10 +83,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 174,
-    "timeDay": 65,
-    "timeWeek": 179,
-    "timeMonth": 170,
-    "timeYear": 175,
+    "timeDay": 69,
+    "timeWeek": 121,
+    "timeMonth": 166,
+    "timeYear": 174,
     "dailyMinutesDown": {
       "2022-07-28": 31,
       "2022-04-15": 50,
@@ -106,12 +106,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 207,
-    "timeDay": 307,
-    "timeWeek": 329,
-    "timeMonth": 285,
-    "timeYear": 237,
+    "timeDay": 129,
+    "timeWeek": 339,
+    "timeMonth": 280,
+    "timeYear": 238,
     "dailyMinutesDown": {
-      "2022-12-11": 99,
+      "2022-12-12": 96,
+      "2022-12-11": 1440,
       "2022-12-10": 1440,
       "2022-12-09": 1440,
       "2022-12-08": 1440,
@@ -474,8 +475,7 @@
       "2021-12-16": 1440,
       "2021-12-15": 1440,
       "2021-12-14": 1440,
-      "2021-12-13": 1440,
-      "2021-12-12": 1440
+      "2021-12-13": 1440
     }
   },
   {
@@ -489,13 +489,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 177,
-    "timeDay": 428,
-    "timeWeek": 243,
-    "timeMonth": 263,
-    "timeYear": 203,
+    "time": 178,
+    "timeDay": 549,
+    "timeWeek": 310,
+    "timeMonth": 278,
+    "timeYear": 205,
     "dailyMinutesDown": {
-      "2022-12-11": 99,
+      "2022-12-12": 96,
+      "2022-12-11": 1440,
       "2022-12-10": 1440,
       "2022-12-09": 1440,
       "2022-12-08": 1440,
@@ -858,8 +859,7 @@
       "2021-12-16": 1440,
       "2021-12-15": 1440,
       "2021-12-14": 1440,
-      "2021-12-13": 1440,
-      "2021-12-12": 1440
+      "2021-12-13": 1440
     }
   },
   {
@@ -874,9 +874,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
     "time": 346,
-    "timeDay": 759,
-    "timeWeek": 520,
-    "timeMonth": 392,
+    "timeDay": 48,
+    "timeWeek": 502,
+    "timeMonth": 384,
     "timeYear": 363,
     "dailyMinutesDown": {
       "2022-07-28": 30,
@@ -936,9 +936,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 290,
-    "timeDay": 128,
-    "timeWeek": 186,
-    "timeMonth": 300,
+    "timeDay": 98,
+    "timeWeek": 177,
+    "timeMonth": 295,
     "timeYear": 309,
     "dailyMinutesDown": {
       "2022-05-02": 27,
@@ -958,9 +958,9 @@
     "uptimeMonth": "96.36%",
     "uptimeYear": "99.59%",
     "time": 393,
-    "timeDay": 180,
-    "timeWeek": 184,
-    "timeMonth": 169,
+    "timeDay": 207,
+    "timeWeek": 191,
+    "timeMonth": 170,
     "timeYear": 330,
     "dailyMinutesDown": {
       "2022-11-15": 1228,
@@ -988,9 +988,9 @@
     "uptimeMonth": "96.36%",
     "uptimeYear": "99.46%",
     "time": 364,
-    "timeDay": 221,
-    "timeWeek": 189,
-    "timeMonth": 172,
+    "timeDay": 211,
+    "timeWeek": 195,
+    "timeMonth": 173,
     "timeYear": 344,
     "dailyMinutesDown": {
       "2022-11-15": 1228,
@@ -1012,15 +1012,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tokyo.nowboarding.club.ico",
     "slug": "now-boarding-tokyo",
     "status": "up",
-    "uptime": "80.57%",
+    "uptime": "80.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.79%",
+    "uptimeYear": "97.06%",
     "time": 299,
-    "timeDay": 169,
-    "timeWeek": 197,
-    "timeMonth": 707,
+    "timeDay": 138,
+    "timeWeek": 204,
+    "timeMonth": 701,
     "timeYear": 350,
     "dailyMinutesDown": {
       "2022-11-10": 19,
@@ -1039,8 +1039,7 @@
       "2021-12-16": 1440,
       "2021-12-15": 1440,
       "2021-12-14": 1440,
-      "2021-12-13": 1440,
-      "2021-12-12": 1440
+      "2021-12-13": 1440
     }
   }
 ]
