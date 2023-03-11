@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
     "time": 391,
-    "timeDay": 378,
-    "timeWeek": 250,
-    "timeMonth": 262,
-    "timeYear": 319,
+    "timeDay": 403,
+    "timeWeek": 281,
+    "timeMonth": 267,
+    "timeYear": 320,
     "dailyMinutesDown": {
       "2022-11-15": 1228,
       "2022-11-14": 370,
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 171,
-    "timeDay": 100,
-    "timeWeek": 107,
-    "timeMonth": 119,
-    "timeYear": 174,
+    "timeDay": 244,
+    "timeWeek": 137,
+    "timeMonth": 120,
+    "timeYear": 175,
     "dailyMinutesDown": {
       "2022-07-28": 31
     }
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6011,
-    "timeDay": 6318,
-    "timeWeek": 5868,
-    "timeMonth": 6021,
-    "timeYear": 5769,
+    "time": 6004,
+    "timeDay": 2615,
+    "timeWeek": 5335,
+    "timeMonth": 5846,
+    "timeYear": 5758,
     "dailyMinutesDown": {}
   },
   {
@@ -72,8 +72,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 175,
-    "timeDay": 41,
-    "timeWeek": 114,
+    "timeDay": 178,
+    "timeWeek": 133,
     "timeMonth": 130,
     "timeYear": 173,
     "dailyMinutesDown": {
@@ -94,12 +94,13 @@
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 239,
-    "timeDay": 30,
-    "timeWeek": 204,
-    "timeMonth": 245,
-    "timeYear": 257,
+    "timeDay": 103,
+    "timeWeek": 178,
+    "timeMonth": 241,
+    "timeYear": 256,
     "dailyMinutesDown": {
-      "2023-03-10": 101,
+      "2023-03-11": 80,
+      "2023-03-10": 1440,
       "2023-03-09": 1440,
       "2023-03-08": 1440,
       "2023-03-07": 1440,
@@ -462,8 +463,7 @@
       "2022-03-15": 1440,
       "2022-03-14": 1440,
       "2022-03-13": 1440,
-      "2022-03-12": 1440,
-      "2022-03-11": 1440
+      "2022-03-12": 1440
     }
   },
   {
@@ -478,12 +478,13 @@
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 207,
-    "timeDay": 279,
-    "timeWeek": 256,
+    "timeDay": 100,
+    "timeWeek": 221,
     "timeMonth": 214,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2023-03-10": 101,
+      "2023-03-11": 80,
+      "2023-03-10": 1440,
       "2023-03-09": 1440,
       "2023-03-08": 1440,
       "2023-03-07": 1440,
@@ -846,8 +847,7 @@
       "2022-03-15": 1440,
       "2022-03-14": 1440,
       "2022-03-13": 1440,
-      "2022-03-12": 1440,
-      "2022-03-11": 1440
+      "2022-03-12": 1440
     }
   },
   {
@@ -862,9 +862,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
     "time": 379,
-    "timeDay": 567,
-    "timeWeek": 274,
-    "timeMonth": 436,
+    "timeDay": 199,
+    "timeWeek": 295,
+    "timeMonth": 434,
     "timeYear": 382,
     "dailyMinutesDown": {
       "2022-07-28": 30,
@@ -906,8 +906,7 @@
       "2022-03-16": 19,
       "2022-03-15": 19,
       "2022-03-13": 63,
-      "2022-03-12": 1,
-      "2022-03-11": 16
+      "2022-03-12": 1
     }
   },
   {
@@ -922,10 +921,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 283,
-    "timeDay": 83,
-    "timeWeek": 157,
-    "timeMonth": 165,
-    "timeYear": 241,
+    "timeDay": 431,
+    "timeWeek": 205,
+    "timeMonth": 167,
+    "timeYear": 242,
     "dailyMinutesDown": {
       "2022-05-02": 27
     }
@@ -942,8 +941,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
     "time": 243,
-    "timeDay": 47,
-    "timeWeek": 160,
+    "timeDay": 161,
+    "timeWeek": 156,
     "timeMonth": 147,
     "timeYear": 171,
     "dailyMinutesDown": {
@@ -959,16 +958,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/counterapi.com.ico",
     "slug": "counter-api-brochure",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.53%",
     "time": 319,
-    "timeDay": 65,
-    "timeWeek": 169,
+    "timeDay": 171,
+    "timeWeek": 166,
     "timeMonth": 158,
-    "timeYear": 241,
+    "timeYear": 242,
     "dailyMinutesDown": {
       "2023-03-08": 22,
       "2023-03-02": 16,
@@ -997,15 +996,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tokyo.nowboarding.club.ico",
     "slug": "now-boarding-tokyo",
     "status": "up",
-    "uptime": "83.48%",
+    "uptime": "83.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 349,
-    "timeDay": 52,
-    "timeWeek": 140,
-    "timeMonth": 831,
+    "timeDay": 173,
+    "timeWeek": 139,
+    "timeMonth": 830,
     "timeYear": 318,
     "dailyMinutesDown": {
       "2022-11-10": 19,
