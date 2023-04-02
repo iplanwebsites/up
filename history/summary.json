@@ -47,19 +47,19 @@
     "url": "https://img.lovely.link/v1/invitation/profile?title=title&text1=text1&text2=text2&text3=text3&avatar=https%3A%2F%2Frandomuser.me%2Fapi%2Fportraits%2Fwomen%2F67.jpg&rating5=0",
     "icon": "https://icons.duckduckgo.com/ip3/img.lovely.link.ico",
     "slug": "lovely-img",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 5968,
-    "timeDay": 6824,
-    "timeWeek": 6617,
-    "timeMonth": 5820,
-    "timeYear": 5749,
+    "time": 5960,
+    "timeDay": 5340,
+    "timeWeek": 6146,
+    "timeMonth": 5716,
+    "timeYear": 5740,
     "dailyMinutesDown": {
-      "2023-04-02": 0
+      "2023-04-02": 8
     }
   },
   {
@@ -100,7 +100,7 @@
     "timeMonth": 256,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2023-04-02": 881,
+      "2023-04-02": 889,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
       "2023-03-30": 1440,
@@ -484,7 +484,7 @@
     "timeMonth": 237,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2023-04-02": 881,
+      "2023-04-02": 889,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
       "2023-03-30": 1440,
