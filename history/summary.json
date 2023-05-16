@@ -97,7 +97,7 @@
     "timeMonth": 287,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2023-05-16": 80,
+      "2023-05-16": 158,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
       "2023-05-13": 1440,
@@ -481,7 +481,7 @@
     "timeMonth": 225,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2023-05-16": 80,
+      "2023-05-16": 158,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
       "2023-05-13": 1440,
@@ -953,9 +953,9 @@
     "url": "https://tokyo.nowboarding.club/",
     "icon": "https://icons.duckduckgo.com/ip3/tokyo.nowboarding.club.ico",
     "slug": "now-boarding-tokyo",
-    "status": "up",
+    "status": "down",
     "uptime": "85.15%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -965,6 +965,7 @@
     "timeMonth": 208,
     "timeYear": 341,
     "dailyMinutesDown": {
+      "2023-05-16": 0,
       "2022-11-10": 19,
       "2022-09-20": 51,
       "2022-07-23": 19,
