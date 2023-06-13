@@ -50,9 +50,9 @@
     "slug": "lovely-img",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 5763,
     "timeDay": 3561,
@@ -60,7 +60,7 @@
     "timeMonth": 5623,
     "timeYear": 5571,
     "dailyMinutesDown": {
-      "2023-06-13": 0
+      "2023-06-13": 9
     }
   },
   {
@@ -100,7 +100,7 @@
     "timeMonth": 291,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2023-06-13": 1141,
+      "2023-06-13": 1150,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
       "2023-06-10": 1440,
@@ -484,7 +484,7 @@
     "timeMonth": 247,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2023-06-13": 1141,
+      "2023-06-13": 1150,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
       "2023-06-10": 1440,
@@ -856,18 +856,19 @@
     "url": "https://og.invt.co/felix.png?fontSize=%40felix&theme=light&md=1&images=https%3A%2F%2Flh3.googleusercontent.com%2Fa-%2FAOh14GjUk2VKmkWxpgWZgY0CXWRFi_k6t7f2MBSsfSxR%3Ds96-c",
     "icon": "https://icons.duckduckgo.com/ip3/og.invt.co.ico",
     "slug": "invitation-og-invt-co-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 343,
-    "timeDay": 261,
-    "timeWeek": 288,
-    "timeMonth": 412,
-    "timeYear": 367,
+    "time": 357,
+    "timeDay": 3325,
+    "timeWeek": 1051,
+    "timeMonth": 599,
+    "timeYear": 384,
     "dailyMinutesDown": {
+      "2023-06-13": 0,
       "2022-07-28": 30
     }
   },
