@@ -1,7 +1,7 @@
 url: https://recu.kickinglotus.com/
-status: up
-code: 200
-responseTime: 105
-lastUpdated: 2023-08-24T23:04:22.838Z
+status: down
+code: 502
+responseTime: 120
+lastUpdated: 2023-08-25T04:53:30.154Z
 startTime: 2021-07-23T15:05:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
