@@ -1,7 +1,7 @@
 url: https://fragile.ventures
-status: up
-code: 200
-responseTime: 185
-lastUpdated: 2023-08-27T23:04:12.996Z
+status: down
+code: 502
+responseTime: 278
+lastUpdated: 2023-08-28T17:51:46.915Z
 startTime: 2021-07-23T15:05:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
