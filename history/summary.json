@@ -26,19 +26,19 @@
     "url": "https://lovely.link/",
     "icon": "https://icons.duckduckgo.com/ip3/lovely.link.ico",
     "slug": "lovely-brochure",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 790,
-    "timeWeek": 345,
-    "timeMonth": 165,
-    "timeYear": 146,
+    "time": 162,
+    "timeDay": 1135,
+    "timeWeek": 527,
+    "timeMonth": 224,
+    "timeYear": 151,
     "dailyMinutesDown": {
-      "2024-01-17": 7
+      "2024-01-17": 0
     }
   },
   {
@@ -66,19 +66,19 @@
     "url": "https://demo.lovely.link/",
     "icon": "https://icons.duckduckgo.com/ip3/demo.lovely.link.ico",
     "slug": "lovely-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 180,
-    "timeDay": 80,
-    "timeWeek": 107,
-    "timeMonth": 255,
+    "timeDay": 90,
+    "timeWeek": 108,
+    "timeMonth": 251,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2024-01-17": 7
+      "2024-01-17": 0
     }
   },
   {
@@ -98,7 +98,7 @@
     "timeMonth": 213,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2024-01-17": 1313,
+      "2024-01-17": 1319,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
@@ -482,7 +482,7 @@
     "timeMonth": 213,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2024-01-17": 1313,
+      "2024-01-17": 1319,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
@@ -854,18 +854,19 @@
     "url": "https://og.invt.co/felix.png?fontSize=%40felix&theme=light&md=1&images=https%3A%2F%2Flh3.googleusercontent.com%2Fa-%2FAOh14GjUk2VKmkWxpgWZgY0CXWRFi_k6t7f2MBSsfSxR%3Ds96-c",
     "icon": "https://icons.duckduckgo.com/ip3/og.invt.co.ico",
     "slug": "invitation-og-invt-co-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 413,
-    "timeDay": 66,
-    "timeWeek": 86,
-    "timeMonth": 106,
-    "timeYear": 425,
+    "time": 415,
+    "timeDay": 579,
+    "timeWeek": 212,
+    "timeMonth": 137,
+    "timeYear": 426,
     "dailyMinutesDown": {
+      "2024-01-17": 0,
       "2023-09-28": 114,
       "2023-06-13": 61
     }
@@ -875,19 +876,19 @@
     "url": "https://kickinglotus.com/en",
     "icon": "https://icons.duckduckgo.com/ip3/kickinglotus.com.ico",
     "slug": "kicking-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 158,
-    "timeDay": 460,
-    "timeWeek": 225,
-    "timeMonth": 146,
+    "timeDay": 379,
+    "timeWeek": 216,
+    "timeMonth": 145,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2024-01-17": 7
+      "2024-01-17": 0
     }
   },
   {
