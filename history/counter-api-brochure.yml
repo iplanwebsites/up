@@ -1,7 +1,7 @@
 url: https://counterapi.com/
-status: down
-code: 502
-responseTime: 139
-lastUpdated: 2024-04-06T05:58:10.793Z
+status: up
+code: 200
+responseTime: 100
+lastUpdated: 2024-04-06T06:07:17.792Z
 startTime: 2021-07-23T15:05:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
