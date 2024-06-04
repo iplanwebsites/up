@@ -53,7 +53,7 @@
     "timeDay": 6460,
     "timeWeek": 5272,
     "timeMonth": 4430,
-    "timeYear": 4703,
+    "timeYear": 4699,
     "dailyMinutesDown": {
       "2023-06-13": 94
     }
@@ -93,7 +93,7 @@
     "timeMonth": 207,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2024-06-04": 1387,
+      "2024-06-04": 1397,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
@@ -475,9 +475,9 @@
     "timeDay": 36,
     "timeWeek": 278,
     "timeMonth": 216,
-    "timeYear": 227,
+    "timeYear": 226,
     "dailyMinutesDown": {
-      "2024-06-04": 1387,
+      "2024-06-04": 1397,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
@@ -859,7 +859,7 @@
     "timeDay": 49,
     "timeWeek": 96,
     "timeMonth": 333,
-    "timeYear": 365,
+    "timeYear": 363,
     "dailyMinutesDown": {
       "2023-09-28": 114,
       "2023-06-13": 61
@@ -917,19 +917,19 @@
     "url": "https://counterapi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/counterapi.com.ico",
     "slug": "counter-api-brochure",
-    "status": "down",
+    "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "96.25%",
-    "uptimeMonth": "98.95%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "96.16%",
+    "uptimeMonth": "98.93%",
     "uptimeYear": "99.89%",
     "time": 183,
-    "timeDay": 149,
+    "timeDay": 151,
     "timeWeek": 155,
     "timeMonth": 189,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2024-06-04": 0,
+      "2024-06-04": 10,
       "2024-06-03": 34,
       "2024-06-01": 308,
       "2024-05-30": 17,
