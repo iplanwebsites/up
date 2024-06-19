@@ -1,7 +1,7 @@
 url: https://tokyo.nowboarding.club/
-status: up
-code: 200
-responseTime: 275
-lastUpdated: 2024-06-19T03:10:30.652Z
+status: down
+code: 502
+responseTime: 50
+lastUpdated: 2024-06-19T03:21:32.343Z
 startTime: 2021-07-23T15:06:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
