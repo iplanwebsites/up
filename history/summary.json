@@ -91,7 +91,7 @@
     "timeMonth": 222,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2024-06-25": 1361,
+      "2024-06-25": 1368,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -475,7 +475,7 @@
     "timeMonth": 275,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2024-06-25": 1361,
+      "2024-06-25": 1369,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -953,15 +953,15 @@
     "url": "https://tokyo.nowboarding.club/",
     "icon": "https://icons.duckduckgo.com/ip3/tokyo.nowboarding.club.ico",
     "slug": "now-boarding-tokyo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "53.09%",
-    "uptimeWeek": "65.88%",
-    "uptimeMonth": "92.15%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "53.06%",
+    "uptimeWeek": "66.61%",
+    "uptimeMonth": "92.32%",
+    "uptimeYear": "99.36%",
     "time": 380,
-    "timeDay": 259,
-    "timeWeek": 379,
+    "timeDay": 262,
+    "timeWeek": 380,
     "timeMonth": 518,
     "timeYear": 397,
     "dailyMinutesDown": {
@@ -970,7 +970,7 @@
       "2024-06-23": 495,
       "2024-06-22": 694,
       "2024-06-21": 718,
-      "2024-06-20": 124
+      "2024-06-20": 51
     }
   }
 ]
