@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 319,
-    "timeDay": 312,
-    "timeWeek": 238,
+    "timeDay": 302,
+    "timeWeek": 274,
     "timeMonth": 274,
-    "timeYear": 330,
+    "timeYear": 329,
     "dailyMinutesDown": {
       "2024-08-02": 23
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 160,
-    "timeDay": 87,
-    "timeWeek": 109,
-    "timeMonth": 120,
+    "timeDay": 137,
+    "timeWeek": 107,
+    "timeMonth": 121,
     "timeYear": 160,
     "dailyMinutesDown": {}
   },
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4692,
-    "timeDay": 7220,
-    "timeWeek": 3948,
-    "timeMonth": 4472,
-    "timeYear": 4670,
+    "time": 4693,
+    "timeDay": 6933,
+    "timeWeek": 4692,
+    "timeMonth": 4629,
+    "timeYear": 4671,
     "dailyMinutesDown": {}
   },
   {
@@ -67,8 +67,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 70,
-    "timeWeek": 106,
+    "timeDay": 116,
+    "timeWeek": 105,
     "timeMonth": 127,
     "timeYear": 149,
     "dailyMinutesDown": {}
@@ -85,12 +85,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 257,
-    "timeDay": 229,
-    "timeWeek": 302,
-    "timeMonth": 291,
-    "timeYear": 252,
+    "timeDay": 177,
+    "timeWeek": 296,
+    "timeMonth": 288,
+    "timeYear": 251,
     "dailyMinutesDown": {
-      "2024-10-18": 536,
+      "2024-10-19": 24,
+      "2024-10-18": 1440,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
@@ -453,8 +454,7 @@
       "2023-10-24": 1440,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
-      "2023-10-21": 1440,
-      "2023-10-20": 1440
+      "2023-10-21": 1440
     }
   },
   {
@@ -469,12 +469,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 235,
-    "timeDay": 58,
-    "timeWeek": 243,
-    "timeMonth": 245,
-    "timeYear": 239,
+    "timeDay": 68,
+    "timeWeek": 197,
+    "timeMonth": 235,
+    "timeYear": 238,
     "dailyMinutesDown": {
-      "2024-10-18": 536,
+      "2024-10-19": 24,
+      "2024-10-18": 1440,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
@@ -837,8 +838,7 @@
       "2023-10-24": 1440,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
-      "2023-10-21": 1440,
-      "2023-10-20": 1440
+      "2023-10-21": 1440
     }
   },
   {
@@ -852,10 +852,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 270,
-    "timeDay": 66,
+    "time": 255,
+    "timeDay": 117,
     "timeWeek": 107,
-    "timeMonth": 131,
+    "timeMonth": 130,
     "timeYear": 199,
     "dailyMinutesDown": {}
   },
@@ -871,9 +871,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 114,
-    "timeWeek": 117,
-    "timeMonth": 127,
+    "timeDay": 151,
+    "timeWeek": 125,
+    "timeMonth": 128,
     "timeYear": 134,
     "dailyMinutesDown": {}
   },
@@ -889,8 +889,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 264,
-    "timeDay": 154,
-    "timeWeek": 129,
+    "timeDay": 156,
+    "timeWeek": 134,
     "timeMonth": 184,
     "timeYear": 177,
     "dailyMinutesDown": {
@@ -912,10 +912,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 176,
-    "timeDay": 204,
-    "timeWeek": 157,
+    "timeDay": 131,
+    "timeWeek": 151,
     "timeMonth": 153,
-    "timeYear": 180,
+    "timeYear": 179,
     "dailyMinutesDown": {
       "2024-08-02": 23,
       "2024-07-30": 47,
@@ -946,17 +946,17 @@
     "slug": "now-boarding-tokyo",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "97.82%",
-    "uptimeWeek": "63.15%",
-    "uptimeMonth": "82.98%",
-    "uptimeYear": "98.58%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "70.35%",
+    "uptimeMonth": "82.90%",
+    "uptimeYear": "98.57%",
     "time": 351,
-    "timeDay": 144,
-    "timeWeek": 137,
+    "timeDay": 133,
+    "timeWeek": 132,
     "timeMonth": 239,
     "timeYear": 369,
     "dailyMinutesDown": {
-      "2024-10-18": 31,
+      "2024-10-18": 26,
       "2024-10-17": 69,
       "2024-10-16": 140,
       "2024-10-15": 89,
@@ -967,7 +967,7 @@
       "2024-10-10": 300,
       "2024-10-08": 1202,
       "2024-10-07": 1053,
-      "2024-10-06": 823
+      "2024-10-06": 863
     }
   }
 ]
