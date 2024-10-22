@@ -24,10 +24,10 @@
     "url": "https://lovely.link/",
     "icon": "https://icons.duckduckgo.com/ip3/lovely.link.ico",
     "slug": "lovely-brochure",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
@@ -35,35 +35,39 @@
     "timeWeek": 104,
     "timeMonth": 117,
     "timeYear": 160,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 2
+    }
   },
   {
     "name": "Lovely (img)",
     "url": "https://img.lovely.link/v1/invitation/profile?title=title&text1=text1&text2=text2&text3=text3&avatar=https%3A%2F%2Frandomuser.me%2Fapi%2Fportraits%2Fwomen%2F67.jpg&rating5=0",
     "icon": "https://icons.duckduckgo.com/ip3/img.lovely.link.ico",
     "slug": "lovely-img",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4684,
+    "time": 4680,
     "timeDay": 6456,
     "timeWeek": 4427,
     "timeMonth": 4497,
     "timeYear": 4681,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 1
+    }
   },
   {
     "name": "Lovely (demo)",
     "url": "https://demo.lovely.link/",
     "icon": "https://icons.duckduckgo.com/ip3/demo.lovely.link.ico",
     "slug": "lovely-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
@@ -71,7 +75,9 @@
     "timeWeek": 100,
     "timeMonth": 126,
     "timeYear": 149,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 1
+    }
   },
   {
     "name": "Invitation (web)",
@@ -90,7 +96,7 @@
     "timeMonth": 287,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2024-10-22": 25,
+      "2024-10-22": 255,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
@@ -474,7 +480,7 @@
     "timeMonth": 228,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2024-10-22": 25,
+      "2024-10-22": 255,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
@@ -846,27 +852,29 @@
     "url": "https://og.invt.co/felix.png?fontSize=%40felix&theme=light&md=1&images=https%3A%2F%2Flh3.googleusercontent.com%2Fa-%2FAOh14GjUk2VKmkWxpgWZgY0CXWRFi_k6t7f2MBSsfSxR%3Ds96-c",
     "icon": "https://icons.duckduckgo.com/ip3/og.invt.co.ico",
     "slug": "invitation-og-invt-co-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 254,
+    "time": 253,
     "timeDay": 72,
     "timeWeek": 99,
     "timeMonth": 127,
     "timeYear": 196,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 1
+    }
   },
   {
     "name": "Kicking (web)",
     "url": "https://kickinglotus.com/en",
     "icon": "https://icons.duckduckgo.com/ip3/kickinglotus.com.ico",
     "slug": "kicking-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -875,7 +883,9 @@
     "timeWeek": 121,
     "timeMonth": 126,
     "timeYear": 134,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   },
   {
     "name": "Kicking (recu)",
@@ -946,13 +956,13 @@
     "slug": "now-boarding-tokyo",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "90.28%",
+    "uptimeDay": "98.48%",
     "uptimeWeek": "94.85%",
     "uptimeMonth": "83.13%",
     "uptimeYear": "98.59%",
     "time": 345,
-    "timeDay": 76,
-    "timeWeek": 133,
+    "timeDay": 82,
+    "timeWeek": 134,
     "timeMonth": 232,
     "timeYear": 366,
     "dailyMinutesDown": {
