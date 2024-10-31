@@ -90,7 +90,7 @@
     "timeMonth": 287,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2024-10-31": 357,
+      "2024-10-31": 364,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
@@ -474,7 +474,7 @@
     "timeMonth": 239,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2024-10-31": 357,
+      "2024-10-31": 364,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
@@ -846,19 +846,19 @@
     "url": "https://og.invt.co/felix.png?fontSize=%40felix&theme=light&md=1&images=https%3A%2F%2Flh3.googleusercontent.com%2Fa-%2FAOh14GjUk2VKmkWxpgWZgY0CXWRFi_k6t7f2MBSsfSxR%3Ds96-c",
     "icon": "https://icons.duckduckgo.com/ip3/og.invt.co.ico",
     "slug": "invitation-og-invt-co-v1",
-    "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 249,
-    "timeDay": 276,
-    "timeWeek": 126,
-    "timeMonth": 144,
-    "timeYear": 192,
+    "timeDay": 170,
+    "timeWeek": 118,
+    "timeMonth": 141,
+    "timeYear": 191,
     "dailyMinutesDown": {
-      "2024-10-31": 0
+      "2024-10-31": 7
     }
   },
   {
