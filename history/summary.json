@@ -90,7 +90,8 @@
     "timeMonth": 248,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2024-11-27": 1409,
+      "2024-11-28": 19,
+      "2024-11-27": 1440,
       "2024-11-26": 1440,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
@@ -453,8 +454,7 @@
       "2023-12-03": 1440,
       "2023-12-02": 1440,
       "2023-12-01": 1440,
-      "2023-11-30": 1440,
-      "2023-11-29": 1440
+      "2023-11-30": 1440
     }
   },
   {
@@ -474,7 +474,8 @@
     "timeMonth": 233,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2024-11-27": 1409,
+      "2024-11-28": 19,
+      "2024-11-27": 1440,
       "2024-11-26": 1440,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
@@ -837,8 +838,7 @@
       "2023-12-03": 1440,
       "2023-12-02": 1440,
       "2023-12-01": 1440,
-      "2023-11-30": 1440,
-      "2023-11-29": 1440
+      "2023-11-30": 1440
     }
   },
   {
@@ -906,7 +906,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/counterapi.com.ico",
     "slug": "counter-api-brochure",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -944,19 +944,20 @@
     "url": "https://tokyo.nowboarding.club/",
     "icon": "https://icons.duckduckgo.com/ip3/tokyo.nowboarding.club.ico",
     "slug": "now-boarding-tokyo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "91.74%",
-    "uptimeWeek": "92.50%",
-    "uptimeMonth": "93.54%",
+    "uptimeDay": "92.22%",
+    "uptimeWeek": "92.57%",
+    "uptimeMonth": "93.56%",
     "uptimeYear": "99.41%",
     "time": 296,
-    "timeDay": 107,
+    "timeDay": 98,
     "timeWeek": 235,
     "timeMonth": 191,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2024-11-27": 119,
+      "2024-11-28": 0,
+      "2024-11-27": 112,
       "2024-11-26": 76,
       "2024-11-25": 143,
       "2024-11-24": 100,
