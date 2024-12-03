@@ -90,7 +90,7 @@
     "timeMonth": 238,
     "timeYear": 255,
     "dailyMinutesDown": {
-      "2024-12-03": 1151,
+      "2024-12-03": 1174,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
@@ -474,7 +474,7 @@
     "timeMonth": 256,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2024-12-03": 1151,
+      "2024-12-03": 1174,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
@@ -905,18 +905,19 @@
     "url": "https://counterapi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/counterapi.com.ico",
     "slug": "counter-api-brochure",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 177,
-    "timeDay": 269,
-    "timeWeek": 180,
-    "timeMonth": 187,
+    "timeDay": 182,
+    "timeWeek": 168,
+    "timeMonth": 184,
     "timeYear": 181,
     "dailyMinutesDown": {
+      "2024-12-03": 0,
       "2024-08-02": 23,
       "2024-07-30": 47,
       "2024-06-21": 27,
@@ -946,9 +947,9 @@
     "slug": "now-boarding-tokyo",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "89.69%",
-    "uptimeWeek": "91.33%",
-    "uptimeMonth": "92.96%",
+    "uptimeDay": "90.21%",
+    "uptimeWeek": "91.41%",
+    "uptimeMonth": "92.94%",
     "uptimeYear": "99.41%",
     "time": 283,
     "timeDay": 117,
@@ -956,7 +957,7 @@
     "timeMonth": 186,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2024-12-03": 148,
+      "2024-12-03": 141,
       "2024-12-02": 130,
       "2024-12-01": 110,
       "2024-11-30": 118,
@@ -984,7 +985,7 @@
       "2024-11-07": 55,
       "2024-11-06": 238,
       "2024-11-05": 125,
-      "2024-11-04": 18
+      "2024-11-04": 34
     }
   }
 ]
