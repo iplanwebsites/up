@@ -90,7 +90,7 @@
     "timeMonth": 279,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2025-01-11": 1246,
+      "2025-01-11": 1253,
       "2025-01-10": 1440,
       "2025-01-09": 1426,
       "2025-01-08": 1440,
@@ -474,7 +474,7 @@
     "timeMonth": 289,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2025-01-11": 1246,
+      "2025-01-11": 1253,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
@@ -847,7 +847,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/og.invt.co.ico",
     "slug": "invitation-og-invt-co-v1",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -952,11 +952,11 @@
     "url": "https://tokyo.nowboarding.club/",
     "icon": "https://icons.duckduckgo.com/ip3/tokyo.nowboarding.club.ico",
     "slug": "now-boarding-tokyo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "2.53%",
+    "uptimeDay": "2.99%",
     "uptimeWeek": "32.27%",
-    "uptimeMonth": "80.57%",
+    "uptimeMonth": "80.61%",
     "uptimeYear": "98.38%",
     "time": 242,
     "timeDay": 123,
@@ -987,7 +987,7 @@
       "2024-12-22": 74,
       "2024-12-21": 67,
       "2024-12-20": 101,
-      "2024-12-19": 64
+      "2024-12-19": 48
     }
   }
 ]
