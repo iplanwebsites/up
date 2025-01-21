@@ -90,7 +90,7 @@
     "timeMonth": 420,
     "timeYear": 286,
     "dailyMinutesDown": {
-      "2025-01-21": 1,
+      "2025-01-21": 24,
       "2025-01-20": 1373,
       "2025-01-19": 1391,
       "2025-01-18": 1417,
@@ -474,7 +474,7 @@
     "timeMonth": 205,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2025-01-21": 1,
+      "2025-01-21": 24,
       "2025-01-20": 1402,
       "2025-01-19": 1399,
       "2025-01-18": 1384,
@@ -954,8 +954,8 @@
     "slug": "now-boarding-tokyo",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "16.28%",
-    "uptimeWeek": "8.94%",
+    "uptimeDay": "17.85%",
+    "uptimeWeek": "9.17%",
     "uptimeMonth": "68.33%",
     "uptimeYear": "97.36%",
     "time": 263,
