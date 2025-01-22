@@ -90,7 +90,7 @@
     "timeMonth": 484,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2025-01-22": 1066,
+      "2025-01-22": 1076,
       "2025-01-21": 1381,
       "2025-01-20": 1373,
       "2025-01-19": 1391,
@@ -474,7 +474,7 @@
     "timeMonth": 204,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2025-01-22": 1085,
+      "2025-01-22": 1096,
       "2025-01-21": 1405,
       "2025-01-20": 1402,
       "2025-01-19": 1399,
@@ -952,15 +952,15 @@
     "url": "https://tokyo.nowboarding.club/",
     "icon": "https://icons.duckduckgo.com/ip3/tokyo.nowboarding.club.ico",
     "slug": "now-boarding-tokyo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "11.94%",
-    "uptimeWeek": "9.79%",
-    "uptimeMonth": "68.87%",
+    "uptimeDay": "12.63%",
+    "uptimeWeek": "9.87%",
+    "uptimeMonth": "68.91%",
     "uptimeYear": "97.41%",
     "time": 261,
-    "timeDay": 144,
-    "timeWeek": 476,
+    "timeDay": 142,
+    "timeWeek": 480,
     "timeMonth": 283,
     "timeYear": 265,
     "dailyMinutesDown": {
@@ -974,7 +974,7 @@
       "2025-01-15": 1321,
       "2025-01-14": 1358,
       "2025-01-13": 1359,
-      "2025-01-12": 817
+      "2025-01-12": 798
     }
   }
 ]
