@@ -6,17 +6,16 @@
     "slug": "fragile-ventures-web",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 330,
     "timeDay": 352,
     "timeWeek": 359,
     "timeMonth": 334,
     "timeYear": 335,
     "dailyMinutesDown": {
-      "2025-02-20": 5,
       "2024-08-02": 23
     }
   },
@@ -83,7 +82,7 @@
     "uptime": "98.67%",
     "uptimeDay": "0.56%",
     "uptimeWeek": "0.08%",
-    "uptimeMonth": "42.81%",
+    "uptimeMonth": "42.78%",
     "uptimeYear": "95.23%",
     "time": 512,
     "timeDay": 514,
@@ -91,7 +90,7 @@
     "timeMonth": 790,
     "timeYear": 555,
     "dailyMinutesDown": {
-      "2025-02-20": 1293,
+      "2025-02-20": 1308,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -121,7 +120,7 @@
     "uptime": "98.67%",
     "uptimeDay": "1.04%",
     "uptimeWeek": "0.15%",
-    "uptimeMonth": "42.75%",
+    "uptimeMonth": "42.72%",
     "uptimeYear": "95.23%",
     "time": 231,
     "timeDay": 184,
@@ -129,7 +128,7 @@
     "timeMonth": 222,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-02-20": 1286,
+      "2025-02-20": 1301,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -262,12 +261,12 @@
     "url": "https://tokyo.nowboarding.club/",
     "icon": "https://icons.duckduckgo.com/ip3/tokyo.nowboarding.club.ico",
     "slug": "now-boarding-tokyo",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "94.62%",
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "94.59%",
     "uptimeWeek": "90.82%",
-    "uptimeMonth": "85.11%",
-    "uptimeYear": "98.76%",
+    "uptimeMonth": "85.51%",
+    "uptimeYear": "98.79%",
     "time": 243,
     "timeDay": 104,
     "timeWeek": 132,
@@ -300,7 +299,7 @@
       "2025-01-27": 707,
       "2025-01-26": 1406,
       "2025-01-25": 1363,
-      "2025-01-24": 517
+      "2025-01-24": 337
     }
   }
 ]
