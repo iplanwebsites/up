@@ -78,17 +78,17 @@
     "url": "https://invitation.codes/",
     "icon": "https://icons.duckduckgo.com/ip3/invitation.codes.ico",
     "slug": "invitation-web",
-    "status": "up",
+    "status": "down",
     "uptime": "98.27%",
-    "uptimeDay": "15.83%",
-    "uptimeWeek": "5.03%",
-    "uptimeMonth": "25.12%",
-    "uptimeYear": "93.76%",
+    "uptimeDay": "16.37%",
+    "uptimeWeek": "5.11%",
+    "uptimeMonth": "25.19%",
+    "uptimeYear": "93.77%",
     "time": 628,
-    "timeDay": 3893,
-    "timeWeek": 2056,
-    "timeMonth": 1022,
-    "timeYear": 695,
+    "timeDay": 3771,
+    "timeWeek": 2032,
+    "timeMonth": 1020,
+    "timeYear": 694,
     "dailyMinutesDown": {
       "2025-02-28": 254,
       "2025-02-27": 1290,
@@ -114,7 +114,7 @@
       "2025-02-07": 1440,
       "2025-02-06": 976,
       "2025-02-05": 1210,
-      "2025-02-04": 912
+      "2025-02-04": 880
     }
   },
   {
@@ -126,7 +126,7 @@
     "uptime": "98.31%",
     "uptimeDay": "19.32%",
     "uptimeWeek": "7.28%",
-    "uptimeMonth": "27.05%",
+    "uptimeMonth": "27.03%",
     "uptimeYear": "93.92%",
     "time": 230,
     "timeDay": 244,
@@ -134,7 +134,7 @@
     "timeMonth": 225,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2025-02-28": 226,
+      "2025-02-28": 234,
       "2025-02-27": 1269,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
