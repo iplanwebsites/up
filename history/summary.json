@@ -78,19 +78,19 @@
     "url": "https://invitation.codes/",
     "icon": "https://icons.duckduckgo.com/ip3/invitation.codes.ico",
     "slug": "invitation-web",
-    "status": "up",
-    "uptime": "98.31%",
-    "uptimeDay": "33.43%",
-    "uptimeWeek": "8.29%",
-    "uptimeMonth": "27.00%",
-    "uptimeYear": "93.92%",
+    "status": "down",
+    "uptime": "98.32%",
+    "uptimeDay": "33.31%",
+    "uptimeWeek": "8.36%",
+    "uptimeMonth": "27.12%",
+    "uptimeYear": "93.93%",
     "time": 707,
-    "timeDay": 2155,
-    "timeWeek": 2320,
-    "timeMonth": 1265,
+    "timeDay": 2153,
+    "timeWeek": 2302,
+    "timeMonth": 1263,
     "timeYear": 796,
     "dailyMinutesDown": {
-      "2025-03-01": 382,
+      "2025-03-01": 384,
       "2025-02-28": 955,
       "2025-02-27": 1290,
       "2025-02-26": 1440,
@@ -114,7 +114,7 @@
       "2025-02-08": 1433,
       "2025-02-07": 1440,
       "2025-02-06": 976,
-      "2025-02-05": 216
+      "2025-02-05": 159
     }
   },
   {
@@ -124,17 +124,17 @@
     "slug": "invitation-next",
     "status": "down",
     "uptime": "98.33%",
-    "uptimeDay": "34.44%",
-    "uptimeWeek": "8.70%",
-    "uptimeMonth": "27.82%",
+    "uptimeDay": "33.85%",
+    "uptimeWeek": "8.62%",
+    "uptimeMonth": "27.80%",
     "uptimeYear": "93.98%",
     "time": 229,
-    "timeDay": 219,
+    "timeDay": 203,
     "timeWeek": 225,
     "timeMonth": 224,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2025-03-01": 289,
+      "2025-03-01": 298,
       "2025-02-28": 1024,
       "2025-02-27": 1269,
       "2025-02-26": 1440,
@@ -273,9 +273,9 @@
     "url": "https://tokyo.nowboarding.club/",
     "icon": "https://icons.duckduckgo.com/ip3/tokyo.nowboarding.club.ico",
     "slug": "now-boarding-tokyo",
-    "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "97.22%",
     "uptimeMonth": "94.72%",
     "uptimeYear": "99.44%",
@@ -285,6 +285,7 @@
     "timeMonth": 137,
     "timeYear": 242,
     "dailyMinutesDown": {
+      "2025-03-01": 1,
       "2025-02-27": 112,
       "2025-02-26": 34,
       "2025-02-25": 49,
@@ -313,7 +314,7 @@
       "2025-02-01": 197,
       "2025-01-31": 239,
       "2025-01-30": 137,
-      "2025-01-29": 91
+      "2025-01-29": 68
     }
   }
 ]
