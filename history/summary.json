@@ -78,17 +78,17 @@
     "url": "https://invitation.codes/",
     "icon": "https://icons.duckduckgo.com/ip3/invitation.codes.ico",
     "slug": "invitation-web",
-    "status": "up",
-    "uptime": "98.31%",
-    "uptimeDay": "29.58%",
+    "status": "down",
+    "uptime": "98.32%",
+    "uptimeDay": "30.02%",
     "uptimeWeek": "8.40%",
-    "uptimeMonth": "27.03%",
-    "uptimeYear": "93.92%",
-    "time": 711,
-    "timeDay": 2256,
-    "timeWeek": 2297,
-    "timeMonth": 1264,
-    "timeYear": 798,
+    "uptimeMonth": "27.36%",
+    "uptimeYear": "93.95%",
+    "time": 710,
+    "timeDay": 2161,
+    "timeWeek": 2279,
+    "timeMonth": 1261,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2025-03-01": 452,
       "2025-02-28": 955,
@@ -113,8 +113,7 @@
       "2025-02-09": 1440,
       "2025-02-08": 1433,
       "2025-02-07": 1440,
-      "2025-02-06": 976,
-      "2025-02-05": 132
+      "2025-02-06": 962
     }
   },
   {
@@ -122,15 +121,15 @@
     "url": "https://next.invitation.codes/",
     "icon": "https://icons.duckduckgo.com/ip3/next.invitation.codes.ico",
     "slug": "invitation-next",
-    "status": "up",
+    "status": "down",
     "uptime": "98.33%",
-    "uptimeDay": "32.29%",
+    "uptimeDay": "32.27%",
     "uptimeWeek": "8.84%",
-    "uptimeMonth": "27.70%",
-    "uptimeYear": "93.97%",
+    "uptimeMonth": "27.84%",
+    "uptimeYear": "93.99%",
     "time": 229,
-    "timeDay": 197,
-    "timeWeek": 223,
+    "timeDay": 202,
+    "timeWeek": 226,
     "timeMonth": 223,
     "timeYear": 229,
     "dailyMinutesDown": {
@@ -158,7 +157,7 @@
       "2025-02-08": 1408,
       "2025-02-07": 1440,
       "2025-02-06": 1118,
-      "2025-02-05": 181
+      "2025-02-05": 119
     }
   },
   {
