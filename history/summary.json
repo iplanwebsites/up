@@ -82,16 +82,16 @@
     "status": "down",
     "uptime": "99.76%",
     "uptimeDay": "29.84%",
-    "uptimeWeek": "55.53%",
-    "uptimeMonth": "89.77%",
+    "uptimeWeek": "55.46%",
+    "uptimeMonth": "89.75%",
     "uptimeYear": "99.15%",
     "time": 1143,
     "timeDay": 2402,
-    "timeWeek": 1931,
+    "timeWeek": 1924,
     "timeMonth": 1875,
     "timeYear": 1212,
     "dailyMinutesDown": {
-      "2025-03-08": 911,
+      "2025-03-08": 917,
       "2025-03-07": 940,
       "2025-03-06": 941,
       "2025-03-05": 918,
@@ -103,15 +103,15 @@
     "url": "https://next.invitation.codes/",
     "icon": "https://icons.duckduckgo.com/ip3/next.invitation.codes.ico",
     "slug": "invitation-next",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "42.04%",
-    "uptimeWeek": "52.32%",
-    "uptimeMonth": "89.03%",
+    "uptimeDay": "42.48%",
+    "uptimeWeek": "52.59%",
+    "uptimeMonth": "89.09%",
     "uptimeYear": "99.09%",
     "time": 232,
-    "timeDay": 234,
-    "timeWeek": 246,
+    "timeDay": 236,
+    "timeWeek": 247,
     "timeMonth": 230,
     "timeYear": 233,
     "dailyMinutesDown": {
@@ -120,7 +120,7 @@
       "2025-03-06": 930,
       "2025-03-05": 1046,
       "2025-03-04": 1156,
-      "2025-03-03": 33
+      "2025-03-03": 5
     }
   },
   {
@@ -237,9 +237,9 @@
     "slug": "now-boarding-tokyo",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "80.19%",
-    "uptimeMonth": "91.53%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "80.24%",
+    "uptimeMonth": "91.54%",
     "uptimeYear": "99.13%",
     "time": 239,
     "timeDay": 145,
@@ -247,7 +247,7 @@
     "timeMonth": 146,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2025-03-08": 24,
+      "2025-03-08": 19,
       "2025-03-07": 39,
       "2025-03-06": 95,
       "2025-03-05": 58,
@@ -281,7 +281,7 @@
       "2025-02-03": 67,
       "2025-02-02": 70,
       "2025-02-01": 197,
-      "2025-01-31": 54
+      "2025-01-31": 72
     }
   }
 ]
