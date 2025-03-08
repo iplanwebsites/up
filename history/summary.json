@@ -81,22 +81,22 @@
     "slug": "invitation-web",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "30.43%",
-    "uptimeWeek": "53.23%",
-    "uptimeMonth": "89.24%",
+    "uptimeDay": "31.39%",
+    "uptimeWeek": "53.00%",
+    "uptimeMonth": "89.19%",
     "uptimeYear": "99.10%",
     "time": 1093,
-    "timeDay": 2940,
-    "timeWeek": 1992,
+    "timeDay": 2951,
+    "timeWeek": 1996,
     "timeMonth": 1857,
     "timeYear": 1186,
     "dailyMinutesDown": {
-      "2025-03-08": 412,
+      "2025-03-08": 398,
       "2025-03-07": 940,
       "2025-03-06": 941,
       "2025-03-05": 918,
       "2025-03-04": 998,
-      "2025-03-03": 510
+      "2025-03-03": 547
     }
   },
   {
@@ -105,18 +105,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/next.invitation.codes.ico",
     "slug": "invitation-next",
     "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "42.17%",
-    "uptimeWeek": "51.90%",
-    "uptimeMonth": "88.93%",
-    "uptimeYear": "99.08%",
+    "uptime": "99.74%",
+    "uptimeDay": "41.17%",
+    "uptimeWeek": "51.75%",
+    "uptimeMonth": "88.90%",
+    "uptimeYear": "99.07%",
     "time": 233,
-    "timeDay": 251,
+    "timeDay": 252,
     "timeWeek": 243,
     "timeMonth": 231,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2025-03-08": 324,
+      "2025-03-08": 338,
       "2025-03-07": 866,
       "2025-03-06": 930,
       "2025-03-05": 1046,
@@ -236,15 +236,15 @@
     "url": "https://tokyo.nowboarding.club/",
     "icon": "https://icons.duckduckgo.com/ip3/tokyo.nowboarding.club.ico",
     "slug": "now-boarding-tokyo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "97.22%",
+    "uptimeDay": "97.19%",
     "uptimeWeek": "79.89%",
     "uptimeMonth": "91.54%",
     "uptimeYear": "99.13%",
     "time": 239,
     "timeDay": 223,
-    "timeWeek": 194,
+    "timeWeek": 195,
     "timeMonth": 145,
     "timeYear": 241,
     "dailyMinutesDown": {
@@ -282,7 +282,7 @@
       "2025-02-03": 67,
       "2025-02-02": 70,
       "2025-02-01": 197,
-      "2025-01-31": 72
+      "2025-01-31": 54
     }
   }
 ]
