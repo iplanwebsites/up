@@ -43,18 +43,20 @@
     "url": "https://img.lovely.link/v1/invitation/profile?title=title&text1=text1&text2=text2&text3=text3&avatar=https%3A%2F%2Frandomuser.me%2Fapi%2Fportraits%2Fwomen%2F67.jpg&rating5=0",
     "icon": "https://icons.duckduckgo.com/ip3/img.lovely.link.ico",
     "slug": "lovely-img",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4567,
+    "time": 4570,
     "timeDay": 2481,
     "timeWeek": 2450,
     "timeMonth": 3436,
     "timeYear": 4533,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-11": 1
+    }
   },
   {
     "name": "Lovely (demo)",
@@ -79,24 +81,24 @@
     "url": "https://invitation.codes/",
     "icon": "https://icons.duckduckgo.com/ip3/invitation.codes.ico",
     "slug": "invitation-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "26.86%",
-    "uptimeWeek": "56.13%",
-    "uptimeMonth": "89.90%",
+    "uptimeDay": "27.60%",
+    "uptimeWeek": "56.46%",
+    "uptimeMonth": "89.98%",
     "uptimeYear": "99.16%",
     "time": 1213,
-    "timeDay": 1347,
-    "timeWeek": 2323,
-    "timeMonth": 1942,
+    "timeDay": 1329,
+    "timeWeek": 2297,
+    "timeMonth": 1940,
     "timeYear": 1313,
     "dailyMinutesDown": {
-      "2025-03-11": 404,
+      "2025-03-11": 405,
       "2025-03-10": 923,
       "2025-03-09": 988,
       "2025-03-08": 1013,
       "2025-03-07": 940,
-      "2025-03-06": 157
+      "2025-03-06": 122
     }
   },
   {
@@ -104,24 +106,24 @@
     "url": "https://next.invitation.codes/",
     "icon": "https://icons.duckduckgo.com/ip3/next.invitation.codes.ico",
     "slug": "invitation-next",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "31.25%",
-    "uptimeWeek": "51.46%",
-    "uptimeMonth": "88.83%",
-    "uptimeYear": "99.07%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "32.00%",
+    "uptimeWeek": "51.95%",
+    "uptimeMonth": "88.94%",
+    "uptimeYear": "99.08%",
     "time": 235,
-    "timeDay": 287,
+    "timeDay": 283,
     "timeWeek": 250,
-    "timeMonth": 236,
+    "timeMonth": 235,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-03-11": 399,
+      "2025-03-11": 400,
       "2025-03-10": 826,
       "2025-03-09": 1029,
       "2025-03-08": 844,
       "2025-03-07": 866,
-      "2025-03-06": 930
+      "2025-03-06": 880
     }
   },
   {
@@ -238,9 +240,9 @@
     "slug": "now-boarding-tokyo",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "96.95%",
-    "uptimeWeek": "96.35%",
-    "uptimeMonth": "91.49%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "96.41%",
+    "uptimeMonth": "91.51%",
     "uptimeYear": "99.16%",
     "time": 237,
     "timeDay": 132,
@@ -248,7 +250,7 @@
     "timeMonth": 145,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2025-03-11": 26,
+      "2025-03-11": 20,
       "2025-03-10": 86,
       "2025-03-09": 45,
       "2025-03-08": 19,
@@ -282,7 +284,8 @@
       "2025-02-06": 172,
       "2025-02-05": 100,
       "2025-02-04": 26,
-      "2025-02-03": 67
+      "2025-02-03": 67,
+      "2025-02-02": 17
     }
   }
 ]
