@@ -82,8 +82,8 @@
     "status": "down",
     "uptime": "99.76%",
     "uptimeDay": "25.81%",
-    "uptimeWeek": "55.41%",
-    "uptimeMonth": "89.74%",
+    "uptimeWeek": "55.33%",
+    "uptimeMonth": "89.72%",
     "uptimeYear": "99.14%",
     "time": 1220,
     "timeDay": 1136,
@@ -91,7 +91,7 @@
     "timeMonth": 1939,
     "timeYear": 1315,
     "dailyMinutesDown": {
-      "2025-03-11": 548,
+      "2025-03-11": 556,
       "2025-03-10": 923,
       "2025-03-09": 988,
       "2025-03-08": 1013,
@@ -104,11 +104,11 @@
     "url": "https://next.invitation.codes/",
     "icon": "https://icons.duckduckgo.com/ip3/next.invitation.codes.ico",
     "slug": "invitation-next",
-    "status": "down",
+    "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "34.33%",
-    "uptimeWeek": "52.63%",
-    "uptimeMonth": "89.10%",
+    "uptimeDay": "33.90%",
+    "uptimeWeek": "52.57%",
+    "uptimeMonth": "89.09%",
     "uptimeYear": "99.09%",
     "time": 235,
     "timeDay": 284,
@@ -116,7 +116,7 @@
     "timeMonth": 237,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-03-11": 539,
+      "2025-03-11": 546,
       "2025-03-10": 826,
       "2025-03-09": 1029,
       "2025-03-08": 844,
@@ -236,10 +236,10 @@
     "url": "https://tokyo.nowboarding.club/",
     "icon": "https://icons.duckduckgo.com/ip3/tokyo.nowboarding.club.ico",
     "slug": "now-boarding-tokyo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "97.39%",
-    "uptimeWeek": "96.41%",
+    "uptimeDay": "97.35%",
+    "uptimeWeek": "96.40%",
     "uptimeMonth": "91.51%",
     "uptimeYear": "99.16%",
     "time": 237,
@@ -248,7 +248,7 @@
     "timeMonth": 146,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2025-03-11": 20,
+      "2025-03-11": 21,
       "2025-03-10": 86,
       "2025-03-09": 45,
       "2025-03-08": 19,
@@ -282,8 +282,7 @@
       "2025-02-06": 172,
       "2025-02-05": 100,
       "2025-02-04": 26,
-      "2025-02-03": 67,
-      "2025-02-02": 17
+      "2025-02-03": 67
     }
   }
 ]
