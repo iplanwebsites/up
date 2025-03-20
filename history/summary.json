@@ -14,7 +14,7 @@
     "timeDay": 328,
     "timeWeek": 328,
     "timeMonth": 368,
-    "timeYear": 323,
+    "timeYear": 324,
     "dailyMinutesDown": {
       "2025-03-02": 16,
       "2024-08-02": 23
@@ -53,7 +53,7 @@
     "timeDay": 2306,
     "timeWeek": 2935,
     "timeMonth": 3625,
-    "timeYear": 4508,
+    "timeYear": 4503,
     "dailyMinutesDown": {}
   },
   {
@@ -71,7 +71,7 @@
     "timeDay": 101,
     "timeWeek": 88,
     "timeMonth": 97,
-    "timeYear": 141,
+    "timeYear": 142,
     "dailyMinutesDown": {}
   },
   {
@@ -79,19 +79,19 @@
     "url": "https://invitation.codes/",
     "icon": "https://icons.duckduckgo.com/ip3/invitation.codes.ico",
     "slug": "invitation-web",
-    "status": "down",
+    "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "62.77%",
-    "uptimeWeek": "61.53%",
-    "uptimeMonth": "91.15%",
+    "uptimeDay": "62.68%",
+    "uptimeWeek": "61.52%",
+    "uptimeMonth": "91.14%",
     "uptimeYear": "99.26%",
-    "time": 1116,
-    "timeDay": 725,
-    "timeWeek": 713,
+    "time": 1117,
+    "timeDay": 738,
+    "timeWeek": 716,
     "timeMonth": 1566,
-    "timeYear": 1194,
+    "timeYear": 1195,
     "dailyMinutesDown": {
-      "2025-03-20": 509,
+      "2025-03-20": 511,
       "2025-03-19": 665,
       "2025-03-18": 922,
       "2025-03-17": 901,
