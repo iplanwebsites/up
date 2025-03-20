@@ -79,24 +79,24 @@
     "url": "https://invitation.codes/",
     "icon": "https://icons.duckduckgo.com/ip3/invitation.codes.ico",
     "slug": "invitation-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "65.28%",
-    "uptimeWeek": "58.31%",
-    "uptimeMonth": "90.41%",
+    "uptimeDay": "66.13%",
+    "uptimeWeek": "58.49%",
+    "uptimeMonth": "90.45%",
     "uptimeYear": "99.20%",
     "time": 1150,
-    "timeDay": 1038,
-    "timeWeek": 727,
-    "timeMonth": 1600,
-    "timeYear": 1208,
+    "timeDay": 1033,
+    "timeWeek": 725,
+    "timeMonth": 1599,
+    "timeYear": 1207,
     "dailyMinutesDown": {
       "2025-03-20": 206,
       "2025-03-19": 665,
       "2025-03-18": 922,
       "2025-03-17": 901,
       "2025-03-16": 1062,
-      "2025-03-15": 448
+      "2025-03-15": 429
     }
   },
   {
@@ -106,22 +106,22 @@
     "slug": "invitation-next",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "58.53%",
-    "uptimeWeek": "56.51%",
-    "uptimeMonth": "89.99%",
-    "uptimeYear": "99.17%",
+    "uptimeDay": "59.23%",
+    "uptimeWeek": "56.21%",
+    "uptimeMonth": "89.92%",
+    "uptimeYear": "99.16%",
     "time": 234,
-    "timeDay": 226,
+    "timeDay": 225,
     "timeWeek": 226,
     "timeMonth": 236,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-03-20": 266,
+      "2025-03-20": 256,
       "2025-03-19": 649,
       "2025-03-18": 865,
       "2025-03-17": 904,
       "2025-03-16": 991,
-      "2025-03-15": 708
+      "2025-03-15": 748
     }
   },
   {
@@ -236,17 +236,17 @@
     "slug": "now-boarding-tokyo",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "88.98%",
-    "uptimeWeek": "93.21%",
-    "uptimeMonth": "91.93%",
-    "uptimeYear": "99.16%",
+    "uptimeDay": "89.58%",
+    "uptimeWeek": "93.30%",
+    "uptimeMonth": "91.95%",
+    "uptimeYear": "99.15%",
     "time": 233,
     "timeDay": 101,
     "timeWeek": 100,
     "timeMonth": 143,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-03-20": 104,
+      "2025-03-20": 95,
       "2025-03-19": 112,
       "2025-03-18": 80,
       "2025-03-17": 81,
@@ -279,7 +279,7 @@
       "2025-02-16": 158,
       "2025-02-15": 115,
       "2025-02-14": 166,
-      "2025-02-13": 3
+      "2025-02-13": 37
     }
   }
 ]
