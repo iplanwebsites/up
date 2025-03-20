@@ -79,24 +79,24 @@
     "url": "https://invitation.codes/",
     "icon": "https://icons.duckduckgo.com/ip3/invitation.codes.ico",
     "slug": "invitation-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "67.73%",
-    "uptimeWeek": "57.20%",
-    "uptimeMonth": "90.15%",
+    "uptimeDay": "67.72%",
+    "uptimeWeek": "57.39%",
+    "uptimeMonth": "90.19%",
     "uptimeYear": "99.18%",
     "time": 1148,
-    "timeDay": 1026,
-    "timeWeek": 727,
-    "timeMonth": 1606,
-    "timeYear": 1210,
+    "timeDay": 1016,
+    "timeWeek": 726,
+    "timeMonth": 1605,
+    "timeYear": 1209,
     "dailyMinutesDown": {
       "2025-03-20": 137,
       "2025-03-19": 665,
       "2025-03-18": 922,
       "2025-03-17": 901,
       "2025-03-16": 1062,
-      "2025-03-15": 630
+      "2025-03-15": 610
     }
   },
   {
@@ -107,8 +107,8 @@
     "status": "down",
     "uptime": "99.77%",
     "uptimeDay": "55.49%",
-    "uptimeWeek": "56.42%",
-    "uptimeMonth": "89.97%",
+    "uptimeWeek": "56.30%",
+    "uptimeMonth": "89.94%",
     "uptimeYear": "99.16%",
     "time": 234,
     "timeDay": 225,
@@ -116,7 +116,7 @@
     "timeMonth": 236,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-03-20": 235,
+      "2025-03-20": 247,
       "2025-03-19": 649,
       "2025-03-18": 865,
       "2025-03-17": 904,
@@ -236,9 +236,9 @@
     "slug": "now-boarding-tokyo",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "87.49%",
-    "uptimeWeek": "93.19%",
-    "uptimeMonth": "91.92%",
+    "uptimeDay": "88.26%",
+    "uptimeWeek": "93.30%",
+    "uptimeMonth": "91.95%",
     "uptimeYear": "99.15%",
     "time": 233,
     "timeDay": 102,
@@ -246,7 +246,7 @@
     "timeMonth": 144,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-03-20": 106,
+      "2025-03-20": 95,
       "2025-03-19": 112,
       "2025-03-18": 80,
       "2025-03-17": 81,
@@ -279,7 +279,7 @@
       "2025-02-16": 158,
       "2025-02-15": 115,
       "2025-02-14": 166,
-      "2025-02-13": 3
+      "2025-02-13": 37
     }
   }
 ]
