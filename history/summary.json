@@ -81,17 +81,17 @@
     "slug": "invitation-web",
     "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "64.58%",
-    "uptimeWeek": "61.80%",
-    "uptimeMonth": "91.21%",
+    "uptimeDay": "64.20%",
+    "uptimeWeek": "61.74%",
+    "uptimeMonth": "91.20%",
     "uptimeYear": "99.27%",
     "time": 1124,
-    "timeDay": 674,
+    "timeDay": 646,
     "timeWeek": 717,
     "timeMonth": 1545,
     "timeYear": 1187,
     "dailyMinutesDown": {
-      "2025-03-21": 237,
+      "2025-03-21": 244,
       "2025-03-20": 533,
       "2025-03-19": 665,
       "2025-03-18": 922,
@@ -104,15 +104,15 @@
     "url": "https://next.invitation.codes/",
     "icon": "https://icons.duckduckgo.com/ip3/next.invitation.codes.ico",
     "slug": "invitation-next",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "62.64%",
-    "uptimeWeek": "59.92%",
-    "uptimeMonth": "90.78%",
-    "uptimeYear": "99.23%",
+    "uptimeDay": "62.62%",
+    "uptimeWeek": "60.34%",
+    "uptimeMonth": "90.87%",
+    "uptimeYear": "99.24%",
     "time": 233,
-    "timeDay": 209,
-    "timeWeek": 222,
+    "timeDay": 211,
+    "timeWeek": 223,
     "timeMonth": 235,
     "timeYear": 234,
     "dailyMinutesDown": {
@@ -121,7 +121,7 @@
       "2025-03-19": 649,
       "2025-03-18": 865,
       "2025-03-17": 904,
-      "2025-03-16": 806
+      "2025-03-16": 764
     }
   },
   {
@@ -236,9 +236,9 @@
     "slug": "now-boarding-tokyo",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "90.91%",
-    "uptimeWeek": "92.72%",
-    "uptimeMonth": "92.04%",
+    "uptimeDay": "91.27%",
+    "uptimeWeek": "92.77%",
+    "uptimeMonth": "92.05%",
     "uptimeYear": "99.16%",
     "time": 232,
     "timeDay": 93,
@@ -246,7 +246,7 @@
     "timeMonth": 142,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2025-03-21": 87,
+      "2025-03-21": 82,
       "2025-03-20": 138,
       "2025-03-19": 112,
       "2025-03-18": 80,
@@ -279,7 +279,7 @@
       "2025-02-17": 125,
       "2025-02-16": 158,
       "2025-02-15": 115,
-      "2025-02-14": 17
+      "2025-02-14": 42
     }
   }
 ]
