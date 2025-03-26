@@ -81,13 +81,13 @@
     "slug": "invitation-web",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "3.86%",
+    "uptimeDay": "4.40%",
     "uptimeWeek": "19.64%",
     "uptimeMonth": "76.22%",
     "uptimeYear": "98.02%",
     "time": 1136,
     "timeDay": 961,
-    "timeWeek": 809,
+    "timeWeek": 811,
     "timeMonth": 1547,
     "timeYear": 1183,
     "dailyMinutesDown": {
@@ -109,19 +109,19 @@
     "url": "https://next.invitation.codes/",
     "icon": "https://icons.duckduckgo.com/ip3/next.invitation.codes.ico",
     "slug": "invitation-next",
-    "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "1.59%",
-    "uptimeWeek": "19.63%",
-    "uptimeMonth": "75.47%",
+    "status": "down",
+    "uptime": "99.45%",
+    "uptimeDay": "2.00%",
+    "uptimeWeek": "19.61%",
+    "uptimeMonth": "75.55%",
     "uptimeYear": "97.96%",
     "time": 233,
-    "timeDay": 220,
-    "timeWeek": 219,
+    "timeDay": 210,
+    "timeWeek": 218,
     "timeMonth": 236,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2025-03-26": 924,
+      "2025-03-26": 926,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -131,7 +131,7 @@
       "2025-03-19": 649,
       "2025-03-18": 865,
       "2025-03-17": 904,
-      "2025-03-16": 405
+      "2025-03-16": 369
     }
   },
   {
@@ -244,9 +244,9 @@
     "url": "https://tokyo.nowboarding.club/",
     "icon": "https://icons.duckduckgo.com/ip3/tokyo.nowboarding.club.ico",
     "slug": "now-boarding-tokyo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "80.75%",
+    "uptimeDay": "81.13%",
     "uptimeWeek": "89.39%",
     "uptimeMonth": "90.58%",
     "uptimeYear": "99.15%",
@@ -256,7 +256,7 @@
     "timeMonth": 135,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2025-03-26": 200,
+      "2025-03-26": 201,
       "2025-03-25": 208,
       "2025-03-24": 153,
       "2025-03-23": 71,
@@ -288,7 +288,7 @@
       "2025-02-23": 21,
       "2025-02-22": 31,
       "2025-02-21": 121,
-      "2025-02-20": 68
+      "2025-02-20": 46
     }
   }
 ]
