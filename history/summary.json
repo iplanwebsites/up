@@ -86,9 +86,9 @@
     "uptimeMonth": "76.31%",
     "uptimeYear": "98.03%",
     "time": 1110,
-    "timeDay": 479,
+    "timeDay": 481,
     "timeWeek": 659,
-    "timeMonth": 1422,
+    "timeMonth": 1423,
     "timeYear": 1155,
     "dailyMinutesDown": {
       "2025-03-28": 185,
@@ -109,19 +109,19 @@
     "url": "https://next.invitation.codes/",
     "icon": "https://icons.duckduckgo.com/ip3/next.invitation.codes.ico",
     "slug": "invitation-next",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "60.21%",
-    "uptimeWeek": "19.32%",
-    "uptimeMonth": "76.27%",
+    "uptimeDay": "60.95%",
+    "uptimeWeek": "19.42%",
+    "uptimeMonth": "76.30%",
     "uptimeYear": "98.02%",
     "time": 233,
-    "timeDay": 216,
+    "timeDay": 218,
     "timeWeek": 237,
     "timeMonth": 236,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2025-03-28": 159,
+      "2025-03-28": 148,
       "2025-03-27": 490,
       "2025-03-26": 1234,
       "2025-03-25": 1440,
@@ -245,9 +245,9 @@
     "slug": "now-boarding-tokyo",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "91.72%",
-    "uptimeWeek": "89.09%",
-    "uptimeMonth": "90.29%",
+    "uptimeDay": "92.38%",
+    "uptimeWeek": "89.18%",
+    "uptimeMonth": "90.31%",
     "uptimeYear": "99.16%",
     "time": 227,
     "timeDay": 103,
@@ -255,7 +255,7 @@
     "timeMonth": 133,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-03-28": 86,
+      "2025-03-28": 76,
       "2025-03-27": 97,
       "2025-03-26": 290,
       "2025-03-25": 208,
@@ -284,7 +284,7 @@
       "2025-03-01": 88,
       "2025-02-27": 112,
       "2025-02-26": 34,
-      "2025-02-25": 26
+      "2025-02-25": 49
     }
   }
 ]
