@@ -13,7 +13,7 @@
     "time": 336,
     "timeDay": 152,
     "timeWeek": 394,
-    "timeMonth": 376,
+    "timeMonth": 377,
     "timeYear": 326,
     "dailyMinutesDown": {
       "2025-03-02": 16,
@@ -34,7 +34,7 @@
     "time": 148,
     "timeDay": 98,
     "timeWeek": 90,
-    "timeMonth": 95,
+    "timeMonth": 96,
     "timeYear": 149,
     "dailyMinutesDown": {}
   },
@@ -52,7 +52,7 @@
     "time": 4539,
     "timeDay": 6544,
     "timeWeek": 3610,
-    "timeMonth": 3279,
+    "timeMonth": 3254,
     "timeYear": 4459,
     "dailyMinutesDown": {}
   },
@@ -70,7 +70,7 @@
     "time": 139,
     "timeDay": 100,
     "timeWeek": 89,
-    "timeMonth": 92,
+    "timeMonth": 93,
     "timeYear": 140,
     "dailyMinutesDown": {}
   },
@@ -79,18 +79,19 @@
     "url": "https://invitation.codes/",
     "icon": "https://icons.duckduckgo.com/ip3/invitation.codes.ico",
     "slug": "invitation-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "54.09%",
-    "uptimeWeek": "18.86%",
-    "uptimeMonth": "76.66%",
-    "uptimeYear": "98.05%",
+    "uptimeDay": "54.63%",
+    "uptimeWeek": "18.93%",
+    "uptimeMonth": "76.71%",
+    "uptimeYear": "98.06%",
     "time": 1081,
     "timeDay": 480,
     "timeWeek": 555,
-    "timeMonth": 1349,
+    "timeMonth": 1390,
     "timeYear": 1137,
     "dailyMinutesDown": {
+      "2025-03-29": 0,
       "2025-03-28": 656,
       "2025-03-27": 756,
       "2025-03-26": 1001,
@@ -101,7 +102,7 @@
       "2025-03-21": 722,
       "2025-03-20": 533,
       "2025-03-19": 665,
-      "2025-03-18": 131
+      "2025-03-18": 111
     }
   },
   {
@@ -111,17 +112,18 @@
     "slug": "invitation-next",
     "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "56.28%",
+    "uptimeDay": "55.74%",
     "uptimeWeek": "19.45%",
-    "uptimeMonth": "76.68%",
+    "uptimeMonth": "76.66%",
     "uptimeYear": "98.06%",
     "time": 234,
-    "timeDay": 241,
+    "timeDay": 243,
     "timeWeek": 245,
     "timeMonth": 237,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-03-28": 629,
+      "2025-03-29": 2,
+      "2025-03-28": 634,
       "2025-03-27": 490,
       "2025-03-26": 1234,
       "2025-03-25": 1440,
@@ -148,7 +150,7 @@
     "time": 173,
     "timeDay": 102,
     "timeWeek": 87,
-    "timeMonth": 90,
+    "timeMonth": 89,
     "timeYear": 172,
     "dailyMinutesDown": {}
   },
@@ -184,7 +186,7 @@
     "time": 172,
     "timeDay": 173,
     "timeWeek": 180,
-    "timeMonth": 179,
+    "timeMonth": 174,
     "timeYear": 153,
     "dailyMinutesDown": {
       "2024-08-02": 23
@@ -204,7 +206,7 @@
     "time": 191,
     "timeDay": 165,
     "timeWeek": 178,
-    "timeMonth": 289,
+    "timeMonth": 285,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2025-02-07": 72,
@@ -234,8 +236,7 @@
       "2024-05-23": 20,
       "2024-05-22": 20,
       "2024-05-21": 23,
-      "2024-04-01": 19,
-      "2024-03-29": 16
+      "2024-04-01": 19
     }
   },
   {
