@@ -79,19 +79,19 @@
     "url": "https://invitation.codes/",
     "icon": "https://icons.duckduckgo.com/ip3/invitation.codes.ico",
     "slug": "invitation-web",
-    "status": "down",
+    "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "62.14%",
+    "uptimeDay": "61.14%",
     "uptimeWeek": "33.52%",
-    "uptimeMonth": "76.91%",
-    "uptimeYear": "98.08%",
-    "time": 1063,
-    "timeDay": 615,
-    "timeWeek": 556,
-    "timeMonth": 1320,
+    "uptimeMonth": "76.88%",
+    "uptimeYear": "98.07%",
+    "time": 1064,
+    "timeDay": 635,
+    "timeWeek": 559,
+    "timeMonth": 1321,
     "timeYear": 1107,
     "dailyMinutesDown": {
-      "2025-03-30": 469,
+      "2025-03-30": 484,
       "2025-03-29": 422,
       "2025-03-28": 656,
       "2025-03-27": 756,
@@ -109,17 +109,17 @@
     "url": "https://next.invitation.codes/",
     "icon": "https://icons.duckduckgo.com/ip3/next.invitation.codes.ico",
     "slug": "invitation-next",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "66.54%",
-    "uptimeWeek": "34.76%",
-    "uptimeMonth": "77.40%",
+    "uptimeDay": "66.52%",
+    "uptimeWeek": "34.91%",
+    "uptimeMonth": "77.44%",
     "uptimeYear": "98.12%",
     "time": 234,
-    "timeDay": 235,
+    "timeDay": 234,
     "timeWeek": 237,
     "timeMonth": 236,
-    "timeYear": 235,
+    "timeYear": 234,
     "dailyMinutesDown": {
       "2025-03-30": 294,
       "2025-03-29": 526,
@@ -131,7 +131,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 641,
-      "2025-03-20": 319
+      "2025-03-20": 300
     }
   },
   {
@@ -244,9 +244,9 @@
     "slug": "now-boarding-tokyo",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "89.90%",
-    "uptimeWeek": "87.08%",
-    "uptimeMonth": "93.62%",
+    "uptimeDay": "90.59%",
+    "uptimeWeek": "87.18%",
+    "uptimeMonth": "93.59%",
     "uptimeYear": "99.47%",
     "time": 225,
     "timeDay": 92,
@@ -254,7 +254,7 @@
     "timeMonth": 131,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2025-03-30": 129,
+      "2025-03-30": 119,
       "2025-03-29": 180,
       "2025-03-28": 246,
       "2025-03-27": 97,
@@ -277,7 +277,7 @@
       "2025-03-09": 45,
       "2025-03-08": 19,
       "2025-03-07": 39,
-      "2025-03-06": 42
+      "2025-03-06": 62
     }
   }
 ]
