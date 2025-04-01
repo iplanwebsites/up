@@ -81,7 +81,7 @@
     "slug": "invitation-web",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "57.94%",
+    "uptimeDay": "58.98%",
     "uptimeWeek": "63.24%",
     "uptimeMonth": "91.54%",
     "uptimeYear": "99.29%",
@@ -107,9 +107,9 @@
     "slug": "invitation-next",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "73.58%",
-    "uptimeWeek": "69.18%",
-    "uptimeMonth": "92.91%",
+    "uptimeDay": "75.43%",
+    "uptimeWeek": "68.99%",
+    "uptimeMonth": "92.86%",
     "uptimeYear": "99.41%",
     "time": 234,
     "timeDay": 247,
@@ -117,13 +117,13 @@
     "timeMonth": 239,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-04-01": 298,
+      "2025-04-01": 286,
       "2025-03-31": 532,
       "2025-03-30": 443,
       "2025-03-29": 526,
       "2025-03-28": 634,
       "2025-03-27": 490,
-      "2025-03-26": 181
+      "2025-03-26": 212
     }
   },
   {
@@ -233,11 +233,11 @@
     "url": "https://tokyo.nowboarding.club/",
     "icon": "https://icons.duckduckgo.com/ip3/tokyo.nowboarding.club.ico",
     "slug": "now-boarding-tokyo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "77.21%",
-    "uptimeWeek": "85.07%",
-    "uptimeMonth": "93.59%",
+    "uptimeDay": "78.10%",
+    "uptimeWeek": "85.15%",
+    "uptimeMonth": "93.64%",
     "uptimeYear": "99.47%",
     "time": 224,
     "timeDay": 99,
@@ -245,7 +245,7 @@
     "timeMonth": 130,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2025-04-01": 233,
+      "2025-04-01": 234,
       "2025-03-31": 283,
       "2025-03-30": 119,
       "2025-03-29": 180,
@@ -263,7 +263,7 @@
       "2025-03-17": 81,
       "2025-03-16": 141,
       "2025-03-15": 55,
-      "2025-03-14": 37
+      "2025-03-14": 17
     }
   }
 ]
