@@ -79,26 +79,26 @@
     "url": "https://invitation.codes/",
     "icon": "https://icons.duckduckgo.com/ip3/invitation.codes.ico",
     "slug": "invitation-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "91.01%",
-    "uptimeWeek": "63.70%",
-    "uptimeMonth": "91.65%",
-    "uptimeYear": "99.30%",
+    "uptimeDay": "90.89%",
+    "uptimeWeek": "63.98%",
+    "uptimeMonth": "91.71%",
+    "uptimeYear": "99.31%",
     "time": 1030,
-    "timeDay": 905,
+    "timeDay": 900,
     "timeWeek": 603,
     "timeMonth": 1181,
     "timeYear": 1078,
     "dailyMinutesDown": {
-      "2025-04-02": 83,
+      "2025-04-02": 85,
       "2025-04-01": 444,
       "2025-03-31": 566,
       "2025-03-30": 670,
       "2025-03-29": 422,
       "2025-03-28": 656,
       "2025-03-27": 756,
-      "2025-03-26": 64
+      "2025-03-26": 34
     }
   },
   {
@@ -108,24 +108,24 @@
     "slug": "invitation-next",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "89.11%",
-    "uptimeWeek": "69.61%",
-    "uptimeMonth": "93.01%",
-    "uptimeYear": "99.42%",
+    "uptimeDay": "89.56%",
+    "uptimeWeek": "69.38%",
+    "uptimeMonth": "92.95%",
+    "uptimeYear": "99.41%",
     "time": 234,
     "timeDay": 200,
     "timeWeek": 238,
     "timeMonth": 240,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-04-02": 31,
+      "2025-04-02": 24,
       "2025-04-01": 322,
       "2025-03-31": 532,
       "2025-03-30": 443,
       "2025-03-29": 526,
       "2025-03-28": 634,
       "2025-03-27": 490,
-      "2025-03-26": 83
+      "2025-03-26": 113
     }
   },
   {
@@ -235,19 +235,19 @@
     "url": "https://tokyo.nowboarding.club/",
     "icon": "https://icons.duckduckgo.com/ip3/tokyo.nowboarding.club.ico",
     "slug": "now-boarding-tokyo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "79.17%",
-    "uptimeWeek": "84.51%",
-    "uptimeMonth": "93.58%",
-    "uptimeYear": "99.46%",
+    "uptimeDay": "79.13%",
+    "uptimeWeek": "84.57%",
+    "uptimeMonth": "93.64%",
+    "uptimeYear": "99.47%",
     "time": 224,
     "timeDay": 131,
     "timeWeek": 119,
     "timeMonth": 131,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2025-04-02": 110,
+      "2025-04-02": 111,
       "2025-04-01": 333,
       "2025-03-31": 283,
       "2025-03-30": 119,
@@ -263,8 +263,7 @@
       "2025-03-20": 138,
       "2025-03-19": 112,
       "2025-03-18": 80,
-      "2025-03-17": 81,
-      "2025-03-16": 29
+      "2025-03-17": 81
     }
   }
 ]
