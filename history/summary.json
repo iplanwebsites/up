@@ -83,17 +83,16 @@
     "slug": "invitation-web",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "96.89%",
-    "uptimeWeek": "73.15%",
-    "uptimeMonth": "92.04%",
-    "uptimeYear": "99.34%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "73.61%",
+    "uptimeMonth": "91.91%",
+    "uptimeYear": "99.33%",
     "time": 1038,
     "timeDay": 632,
-    "timeWeek": 609,
+    "timeWeek": 606,
     "timeMonth": 1170,
     "timeYear": 1069,
     "dailyMinutesDown": {
-      "2025-04-04": 12,
       "2025-04-03": 33,
       "2025-04-02": 99,
       "2025-04-01": 444,
@@ -101,7 +100,7 @@
       "2025-03-30": 670,
       "2025-03-29": 422,
       "2025-03-28": 656,
-      "2025-03-27": 587
+      "2025-03-27": 657
     }
   },
   {
@@ -111,17 +110,16 @@
     "slug": "invitation-next",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "96.34%",
-    "uptimeWeek": "76.49%",
-    "uptimeMonth": "93.01%",
-    "uptimeYear": "99.42%",
+    "uptimeDay": "97.20%",
+    "uptimeWeek": "76.83%",
+    "uptimeMonth": "92.97%",
+    "uptimeYear": "99.41%",
     "time": 235,
     "timeDay": 276,
-    "timeWeek": 244,
+    "timeWeek": 245,
     "timeMonth": 239,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-04-04": 12,
       "2025-04-03": 41,
       "2025-04-02": 24,
       "2025-04-01": 322,
@@ -130,7 +128,7 @@
       "2025-03-29": 526,
       "2025-03-28": 634,
       "2025-03-27": 490,
-      "2025-03-26": 36
+      "2025-03-26": 67
     }
   },
   {
@@ -240,19 +238,19 @@
     "url": "https://tokyo.nowboarding.club/",
     "icon": "https://icons.duckduckgo.com/ip3/tokyo.nowboarding.club.ico",
     "slug": "now-boarding-tokyo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "82.50%",
-    "uptimeWeek": "83.78%",
-    "uptimeMonth": "93.25%",
+    "uptimeDay": "82.47%",
+    "uptimeWeek": "83.96%",
+    "uptimeMonth": "93.31%",
     "uptimeYear": "99.44%",
     "time": 224,
-    "timeDay": 137,
-    "timeWeek": 134,
+    "timeDay": 136,
+    "timeWeek": 132,
     "timeMonth": 133,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2025-04-04": 150,
+      "2025-04-04": 151,
       "2025-04-03": 187,
       "2025-04-02": 217,
       "2025-04-01": 333,
@@ -267,8 +265,7 @@
       "2025-03-23": 71,
       "2025-03-22": 121,
       "2025-03-21": 159,
-      "2025-03-20": 138,
-      "2025-03-19": 1
+      "2025-03-20": 113
     }
   }
 ]
