@@ -81,18 +81,19 @@
     "url": "https://invitation.codes/",
     "icon": "https://icons.duckduckgo.com/ip3/invitation.codes.ico",
     "slug": "invitation-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.16%",
-    "uptimeMonth": "92.25%",
-    "uptimeYear": "99.35%",
-    "time": 1023,
-    "timeDay": 676,
-    "timeWeek": 664,
-    "timeMonth": 1032,
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "87.22%",
+    "uptimeMonth": "92.31%",
+    "uptimeYear": "99.36%",
+    "time": 1024,
+    "timeDay": 669,
+    "timeWeek": 661,
+    "timeMonth": 1028,
     "timeYear": 1056,
     "dailyMinutesDown": {
+      "2025-04-06": 0,
       "2025-04-05": 93,
       "2025-04-04": 39,
       "2025-04-03": 33,
@@ -102,7 +103,7 @@
       "2025-03-30": 670,
       "2025-03-29": 422,
       "2025-03-28": 656,
-      "2025-03-27": 376
+      "2025-03-27": 347
     }
   },
   {
@@ -110,14 +111,14 @@
     "url": "https://next.invitation.codes/",
     "icon": "https://icons.duckduckgo.com/ip3/next.invitation.codes.ico",
     "slug": "invitation-next",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "94.59%",
+    "uptimeDay": "94.57%",
     "uptimeWeek": "89.71%",
-    "uptimeMonth": "93.02%",
+    "uptimeMonth": "93.07%",
     "uptimeYear": "99.42%",
-    "time": 236,
-    "timeDay": 284,
+    "time": 235,
+    "timeDay": 288,
     "timeWeek": 252,
     "timeMonth": 240,
     "timeYear": 236,
@@ -131,7 +132,7 @@
       "2025-03-30": 443,
       "2025-03-29": 526,
       "2025-03-28": 634,
-      "2025-03-27": 434
+      "2025-03-27": 414
     }
   },
   {
@@ -243,17 +244,17 @@
     "slug": "now-boarding-tokyo",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "91.39%",
-    "uptimeWeek": "85.92%",
-    "uptimeMonth": "93.49%",
-    "uptimeYear": "99.46%",
+    "uptimeDay": "92.04%",
+    "uptimeWeek": "86.01%",
+    "uptimeMonth": "93.39%",
+    "uptimeYear": "99.45%",
     "time": 222,
     "timeDay": 107,
     "timeWeek": 126,
     "timeMonth": 123,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-04-06": 125,
+      "2025-04-06": 116,
       "2025-04-05": 108,
       "2025-04-04": 166,
       "2025-04-03": 187,
@@ -268,7 +269,7 @@
       "2025-03-25": 208,
       "2025-03-24": 153,
       "2025-03-23": 71,
-      "2025-03-22": 69
+      "2025-03-22": 121
     }
   }
 ]
