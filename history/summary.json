@@ -82,18 +82,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/invitation.codes.ico",
     "slug": "invitation-web",
     "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "93.60%",
-    "uptimeWeek": "91.85%",
-    "uptimeMonth": "92.27%",
-    "uptimeYear": "99.36%",
+    "uptime": "99.82%",
+    "uptimeDay": "94.17%",
+    "uptimeWeek": "91.93%",
+    "uptimeMonth": "92.20%",
+    "uptimeYear": "99.35%",
     "time": 1001,
     "timeDay": 659,
-    "timeWeek": 698,
+    "timeWeek": 701,
     "timeMonth": 939,
     "timeYear": 1051,
     "dailyMinutesDown": {
-      "2025-04-07": 92,
+      "2025-04-07": 84,
       "2025-04-05": 93,
       "2025-04-04": 39,
       "2025-04-03": 33,
@@ -103,7 +103,7 @@
       "2025-03-30": 670,
       "2025-03-29": 422,
       "2025-03-28": 656,
-      "2025-03-27": 277
+      "2025-03-27": 315
     }
   },
   {
@@ -113,9 +113,9 @@
     "slug": "invitation-next",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "98.10%",
-    "uptimeWeek": "94.90%",
-    "uptimeMonth": "93.05%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "94.98%",
+    "uptimeMonth": "93.03%",
     "uptimeYear": "99.42%",
     "time": 236,
     "timeDay": 241,
@@ -123,7 +123,7 @@
     "timeMonth": 239,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-04-07": 27,
+      "2025-04-07": 19,
       "2025-04-06": 78,
       "2025-04-04": 20,
       "2025-04-03": 41,
@@ -133,7 +133,7 @@
       "2025-03-30": 443,
       "2025-03-29": 526,
       "2025-03-28": 634,
-      "2025-03-27": 396
+      "2025-03-27": 414
     }
   },
   {
@@ -178,7 +178,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/recu.kickinglotus.com.ico",
     "slug": "kicking-recu",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -243,11 +243,11 @@
     "url": "https://tokyo.nowboarding.club/",
     "icon": "https://icons.duckduckgo.com/ip3/tokyo.nowboarding.club.ico",
     "slug": "now-boarding-tokyo",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "84.82%",
-    "uptimeWeek": "86.66%",
-    "uptimeMonth": "93.51%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "84.77%",
+    "uptimeWeek": "86.65%",
+    "uptimeMonth": "93.55%",
     "uptimeYear": "99.46%",
     "time": 221,
     "timeDay": 105,
@@ -255,7 +255,7 @@
     "timeMonth": 118,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2025-04-07": 220,
+      "2025-04-07": 221,
       "2025-04-06": 116,
       "2025-04-05": 108,
       "2025-04-04": 166,
@@ -269,7 +269,7 @@
       "2025-03-27": 97,
       "2025-03-26": 290,
       "2025-03-25": 208,
-      "2025-03-24": 74
+      "2025-03-24": 58
     }
   }
 ]
