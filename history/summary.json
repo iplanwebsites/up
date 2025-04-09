@@ -81,17 +81,17 @@
     "url": "https://invitation.codes/",
     "icon": "https://icons.duckduckgo.com/ip3/invitation.codes.ico",
     "slug": "invitation-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "92.56%",
+    "uptimeDay": "92.55%",
     "uptimeWeek": "95.92%",
-    "uptimeMonth": "92.47%",
-    "uptimeYear": "99.37%",
+    "uptimeMonth": "92.52%",
+    "uptimeYear": "99.38%",
     "time": 1012,
-    "timeDay": 769,
-    "timeWeek": 676,
+    "timeDay": 753,
+    "timeWeek": 674,
     "timeMonth": 772,
-    "timeYear": 1045,
+    "timeYear": 1044,
     "dailyMinutesDown": {
       "2025-04-09": 108,
       "2025-04-08": 56,
@@ -105,7 +105,7 @@
       "2025-03-30": 670,
       "2025-03-29": 422,
       "2025-03-28": 656,
-      "2025-03-27": 32
+      "2025-03-27": 11
     }
   },
   {
@@ -249,17 +249,17 @@
     "slug": "now-boarding-tokyo",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "85.40%",
-    "uptimeWeek": "87.84%",
-    "uptimeMonth": "93.45%",
+    "uptimeDay": "85.74%",
+    "uptimeWeek": "87.89%",
+    "uptimeMonth": "93.40%",
     "uptimeYear": "99.45%",
     "time": 221,
-    "timeDay": 145,
+    "timeDay": 147,
     "timeWeek": 123,
     "timeMonth": 121,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-04-09": 185,
+      "2025-04-09": 180,
       "2025-04-08": 226,
       "2025-04-07": 241,
       "2025-04-06": 116,
@@ -273,7 +273,7 @@
       "2025-03-29": 180,
       "2025-03-28": 246,
       "2025-03-27": 97,
-      "2025-03-26": 166
+      "2025-03-26": 191
     }
   }
 ]
